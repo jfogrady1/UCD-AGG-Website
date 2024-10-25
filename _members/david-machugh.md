@@ -2,7 +2,7 @@
 name: David Machugh
 image: images/photo.jpg
 role: pi
-affiliation: UCD School of Agriculture and Food Science & UCD Conway Institute of Biomolecular and Biomedical research
+affiliation: UCD School of Agriculture and Food Science
 aliases:
   - D. MacHugh
   - D MacHugh
