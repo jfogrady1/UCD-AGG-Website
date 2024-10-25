@@ -1,9 +1,10 @@
 # site properties and page defaults
-title: The UCD Animal Genomics Group
-description: Empowering livestock with genomic insights
+title: The Greene Lab
+description: Where data and biology meet
 logo-text: false
 header: images/background.jpg
 footer: images/background.jpg
+
 proofer: false
 
 # site social media and other links
