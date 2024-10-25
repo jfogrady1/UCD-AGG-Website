@@ -2,7 +2,7 @@
 name: David Machugh
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: UCD School of Agriculture and Food Science & UCD Conway Institute of Biomolecular and Biomedical research
 aliases:
   - D. MacHugh
   - D MacHugh
