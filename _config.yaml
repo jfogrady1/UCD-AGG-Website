@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Welcome to the UCD Animal Genomics Group where we specialise in integrative, population, and functional genomics to drive advancements in animal health, productivity, and sustainability.
-subtitle: 
-description: 
+title: The UCD Animal Genomics Group
+description: Empowering livestock with genomic insights
+logo-test: false
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
