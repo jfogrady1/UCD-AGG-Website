@@ -1,174 +1,3193 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.21203/rs.3.rs-4622059/v1
+  title: Genome-wide local ancestry and the functional consequences of admixture in
+    African and European cattle populations
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - David MacHugh
+  - Gillian McHugo
+  - James Ward
+  - "Said Ng\u2019ang\u2019a"
+  - Laurent Frantz
+  - Michael Salter-Townshend
+  - Emmeline Hill
+  - Grace O'Gorman
+  - Kieran Meade
+  - Thomas Hall
+  publisher: Springer Science and Business Media LLC
+  date: '2024-07-31'
+  link: https://doi.org/g8n5mt
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.tube.2023.102453
+  title: Integrative and comparative genomic analyses of mammalian macrophage responses
+    to intracellular mycobacterial pathogens
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Thomas J. Hall
+  - Gillian P. McHugo
+  - Michael P. Mullen
+  - James A. Ward
+  - Kate E. Killick
+  - John A. Browne
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Tuberculosis
+  date: '2024-07-01'
+  link: https://doi.org/g8n5mv
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.06.20.599852
+  title: Genome-wide local ancestry and the functional consequences of admixture in
+    African and European cattle populations
+  authors:
+  - Gillian P. McHugo
+  - James A. Ward
+  - "Said Ismael Ng\u2019ang\u2019a"
+  - Laurent A.F. Frantz
+  - Michael Salter-Townshend
+  - Emmeline W. Hill
+  - "Grace M. O\u2019Gorman"
+  - Kieran G. Meade
+  - Thomas J. Hall
+  - David E. MacHugh
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-06-20'
+  link: https://doi.org/g8n5mw
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1111/pim.13033
+  title: Unveiling the Role of Endoplasmic Reticulum Stress Pathways in Canine Demodicosis
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Pamela A. Kelly
+  - Gillian P. McHugo
+  - Caitriona Scaife
+  - Susan Peters
+  - M. Lynn Stevenson
+  - Jennifer S. McKay
+  - David E. MacHugh
+  - Irene Lara Saez
+  - Rory Breathnach
+  publisher: Parasite Immunology
+  date: '2024-04-01'
+  link: https://doi.org/g8n5mx
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2023.08.11.552979
+  title: Unveiling the Role of Endoplasmic Reticulum Stress Pathways in Canine Demodicosis
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Pamela A Kelly
+  - Gillian P. McHugo
+  - Caitriona Scaife
+  - Susan Peters
+  - M. Lynn Stevenson
+  - Jennifer S McKay
+  - David E. MacHugh
+  - Irene Lara Saez
+  - Rory Breathnach
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-08-14'
+  link: https://doi.org/g8n5mz
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2023.07.21.550071
+  title: "Preferential differential gene expression within the WC1.1<sup>+</sup>\u03B3\
+    \u03B4 T cell compartment in cattle naturally infected with<i>Mycobacterium bovis</i>"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Sajad A. Bhat
+  - Mahmoud Elnaggar
+  - Thomas J. Hall
+  - Gillian P. McHugo
+  - Cian Reid
+  - David E. MacHugh
+  - Kieran G. Meade
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2023-07-25'
+  link: https://doi.org/g8n5m2
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/2023.07.14.549042
+  title: Integrative and comparative genomic analyses of mammalian macrophage responses
+    to intracellular mycobacterial pathogens
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Thomas J. Hall
+  - Gillian P. McHugo
+  - Michael P. Mullen
+  - James A. Ward
+  - Kate E. Killick
+  - John A. Browne
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-15'
+  link: https://doi.org/g8n5m4
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/age.13309
+  title: Inbreeding depression and durability in the North American Thoroughbred horse
+  authors:
+  - Emmeline W. Hill
+  - Beatrice A. McGivney
+  - David E. MacHugh
+  publisher: Animal Genetics
+  date: '2023-02-26'
+  link: https://doi.org/g8n5m5
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/age.13320
+  title: Integrative genomics analysis highlights functionally relevant genes for
+    equine behaviour
+  authors:
+  - Amy R. Holtby
+  - Thomas J. Hall
+  - Beatrice A. McGivney
+  - Haige Han
+  - Keith J. Murphy
+  - David E. MacHugh
+  - Lisa M. Katz
+  - Emmeline W. Hill
+  publisher: Animal Genetics
+  date: '2023-03-27'
+  link: https://doi.org/g8n5m6
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-023-09116-8
+  title: Selection signatures for local and regional adaptation in Chinese Mongolian
+    horse breeds reveal candidate genes for hoof health
+  authors:
+  - Haige Han
+  - Imtiaz A. S. Randhawa
+  - David E. MacHugh
+  - Beatrice A. McGivney
+  - Lisa M. Katz
+  - Manglai Dugarjaviin
+  - Emmeline W. Hill
+  publisher: BMC Genomics
+  date: '2023-01-19'
+  link: https://doi.org/g8n5m7
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2022.104672
+  title: Genome-wide local ancestry and evidence for mitonuclear coadaptation in African
+    hybrid cattle populations
+  authors:
+  - James A. Ward
+  - Gillian P. McHugo
+  - Michael J. Dover
+  - Thomas J. Hall
+  - Said Ismael Ng'ang'a
+  - Tad S. Sonstegard
+  - Daniel G. Bradley
+  - Laurent A.F. Frantz
+  - Michael Salter-Townshend
+  - David E. MacHugh
+  publisher: iScience
+  date: '2022-07-01'
+  link: https://doi.org/g8n5m8
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42003-022-04206-x
+  title: Common protein-coding variants influence the racing phenotype in galloping
+    racehorse breeds
+  authors:
+  - Haige Han
+  - Beatrice A. McGivney
+  - Lucy Allen
+  - Dongyi Bai
+  - Leanne R. Corduff
+  - Gantulga Davaakhuu
+  - Jargalsaikhan Davaasambuu
+  - Dulguun Dorjgotov
+  - Thomas J. Hall
+  - Andrew J. Hemmings
+  - Amy R. Holtby
+  - Tuyatsetseg Jambal
+  - Badarch Jargalsaikhan
+  - Uyasakh Jargalsaikhan
+  - Naveen K. Kadri
+  - David E. MacHugh
+  - Hubert Pausch
+  - Carol Readhead
+  - David Warburton
+  - Manglai Dugarjaviin
+  - Emmeline W. Hill
+  publisher: Communications Biology
+  date: '2022-12-13'
+  link: https://doi.org/g8n5m9
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tube.2022.102235
+  title: High-resolution transcriptomics of bovine purified protein derivative-stimulated
+    peripheral blood from cattle infected with Mycobacterium bovis across an experimental
+    time course
+  authors:
+  - Carolina N. Correia
+  - Gillian P. McHugo
+  - John A. Browne
+  - Kirsten E. McLoughlin
+  - Nicolas C. Nalpas
+  - David A. Magee
+  - Adam O. Whelan
+  - Bernardo Villarreal-Ramos
+  - H. Martin Vordermeier
+  - Eamonn Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Tuberculosis
+  date: '2022-09-01'
+  link: https://doi.org/g8n5nb
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.04.19.488769
+  title: High-resolution transcriptomics of bovine purified protein derivative-stimulated
+    peripheral blood from cattle infected with<i>Mycobacterium bovis</i>across an
+    experimental time course
+  authors:
+  - Carolina N. Correia
+  - Gillian P. McHugo
+  - John A. Browne
+  - Kirsten E. McLoughlin
+  - Nicolas C. Nalpas
+  - David A. Magee
+  - Adam O. Whelan
+  - Bernardo Villarreal-Ramos
+  - H. Martin Vordermeier
+  - Eamonn Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-19'
+  link: https://doi.org/g8n5nc
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2022.0487
+  title: Inbreeding depression and the probability of racing in the Thoroughbred horse
+  authors:
+  - Emmeline W. Hill
+  - Martin A. Stoffel
+  - Beatrice A. McGivney
+  - David E. MacHugh
+  - Josephine M. Pemberton
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2022-06-29'
+  link: https://doi.org/h42m
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1810897/v1
+  title: Selection signatures for local and regional adaptation in Chinese Mongolian
+    horse breeds reveal candidate genes for hoof health
+  authors:
+  - Haige Han
+  - Imtiaz A. S. Randhawa
+  - David E. MacHugh
+  - Beatrice A. McGivney
+  - Lisa M. Katz
+  - Manglai Dugarjaviin
+  - Emmeline W. Hill
+  publisher: Research Square Platform LLC
+  date: '2022-09-06'
+  link: https://doi.org/g8n5nd
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fcell.2022.839731
+  title: Transcriptome Profiling of Developing Ovine Fat Tail Tissue Reveals an Important
+    Role for MTFP1 in Regulation of Adipogenesis
+  authors:
+  - Jiangang Han
+  - Sijia Ma
+  - Benmeng Liang
+  - Tianyou Bai
+  - Yuhetian Zhao
+  - Yuehui Ma
+  - David E. MacHugh
+  - Lina Ma
+  - Lin Jiang
+  publisher: Frontiers in Cell and Developmental Biology
+  date: '2022-03-08'
+  link: https://doi.org/mnj6
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-021-07643-w
+  title: Integrative genomics of the mammalian alveolar macrophage response to intracellular
+    mycobacteria
+  authors:
+  - Thomas J. Hall
+  - Michael P. Mullen
+  - Gillian P. McHugo
+  - Kate E. Killick
+  - "Siobh\xE1n C. Ring"
+  - Donagh P. Berry
+  - Carolina N. Correia
+  - John A. Browne
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: BMC Genomics
+  date: '2021-05-12'
+  link: https://doi.org/g8n5nf
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.08.26.457829
+  title: Genome-wide local ancestry and direct evidence for mitonuclear coadaptation
+    in African hybrid cattle populations (<i>Bos taurus</i>/<i>indicus</i>)
+  authors:
+  - James A. Ward
+  - Gillian P. McHugo
+  - Michael J. Dover
+  - Thomas J. Hall
+  - "Said Ismael Ng\u2019ang\u2019a"
+  - Tad S. Sonstegard
+  - Daniel G. Bradley
+  - Laurent A. F. Frantz
+  - Michael Salter-Townshend
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-08-27'
+  link: https://doi.org/g8n5ng
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.21.449266
+  title: Timing of transcriptomic peripheral blood mononuclear cell responses of sheep
+    to <i>Fasciola hepatica</i> infection differs from those of cattle, reflecting
+    different disease phenotypes
+  authors:
+  - Dagmara A. Niedziela
+  - Amalia Naranjo-Lucena
+  - "Ver\xF3nica Molina-Hern\xE1ndez"
+  - John A. Browne
+  - "\xC1lvaro Mart\xEDnez-Moreno"
+  - "Jos\xE9 P\xE9rez"
+  - David E. MacHugh
+  - Grace Mulcahy
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-22'
+  link: https://doi.org/g8n5nh
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fvets.2021.662002
+  title: RNA-Seq Transcriptome Analysis of Peripheral Blood From Cattle Infected With
+    Mycobacterium bovis Across an Experimental Time Course
+  authors:
+  - Kirsten E. McLoughlin
+  - Carolina N. Correia
+  - John A. Browne
+  - David A. Magee
+  - Nicolas C. Nalpas
+  - Kevin Rue-Albrecht
+  - Adam O. Whelan
+  - Bernardo Villarreal-Ramos
+  - H. Martin Vordermeier
+  - Eamonn Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Frontiers in Veterinary Science
+  date: '2021-05-28'
+  link: https://doi.org/g8n5nj
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2021.729217
+  title: Timing of Transcriptomic Peripheral Blood Mononuclear Cell Responses of Sheep
+    to Fasciola hepatica Infection Differs From Those of Cattle, Reflecting Different
+    Disease Phenotypes
+  authors:
+  - Dagmara A. Niedziela
+  - Amalia Naranjo-Lucena
+  - "Ver\xF3nica Molina-Hern\xE1ndez"
+  - John A. Browne
+  - "\xC1lvaro Mart\xEDnez-Moreno"
+  - "Jos\xE9 P\xE9rez"
+  - David E. MacHugh
+  - Grace Mulcahy
+  publisher: Frontiers in Immunology
+  date: '2021-09-20'
+  link: https://doi.org/gsxvt4
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2021.687579
+  title: "Transcriptomic Analysis of Ovine Hepatic Lymph Node Following Fasciola hepatica\
+    \ Infection \u2013 Inhibition of NK Cell and IgE-Mediated Signaling"
+  authors:
+  - Amalia Naranjo-Lucena
+  - Carolina N. Correia
+  - "Ver\xF3nica Molina-Hern\xE1ndez"
+  - "\xC1lvaro Mart\xEDnez-Moreno"
+  - John A. Browne
+  - "Jos\xE9 P\xE9rez"
+  - David E. MacHugh
+  - Grace Mulcahy
+  publisher: Frontiers in Immunology
+  date: '2021-05-28'
+  link: https://doi.org/g8n5nk
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32944235
+  title: Identification of novel molecular markers of mastitis caused by
+  authors:
+  - Di Wang
+  - Lei Liu
+  - Serafino M A Augustino
+  - Tao Duan
+  - Thomas J Hall
+  - David E MacHugh
+  - Jinhuan Dou
+  - Yi Zhang
+  - Yachun Wang
+  - Ying Yu
+  publisher: Journal of animal science and biotechnology
+  date: '2020-09-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32944235
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.08.25.266668
+  title: Integrative genomics of the mammalian alveolar macrophage response to intracellular
+    mycobacteria
+  authors:
+  - Thomas J. Hall
+  - Michael P. Mullen
+  - Gillian P. McHugo
+  - Kate E. Killick
+  - "Siobh\xE1n C. Ring"
+  - Donagh P. Berry
+  - Carolina N. Correia
+  - John A. Browne
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-26'
+  link: https://doi.org/g8n5nm
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0227212
+  title: Selection in Australian Thoroughbred horses acts on a locus associated with
+    early two-year old speed
+  authors:
+  - Haige Han
+  - Beatrice A. McGivney
+  - Gabriella Farries
+  - Lisa M. Katz
+  - David E. MacHugh
+  - Imtiaz A. S. Randhawa
+  - Emmeline W. Hill
+  publisher: PLOS ONE
+  date: '2020-02-12'
+  link: https://doi.org/g8n5nn
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1664-8021
+  title: ISSN 1664-8021 (Online) | Frontiers in genetics | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1664-8021
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-57389-5
+  title: Genomic inbreeding trends, influential sire lines and selection in the global
+    Thoroughbred horse population
+  authors:
+  - Beatrice A. McGivney
+  - Haige Han
+  - Leanne R. Corduff
+  - Lisa M. Katz
+  - Teruaki Tozaki
+  - David E. MacHugh
+  - Emmeline W. Hill
+  publisher: Scientific Reports
+  date: '2020-01-16'
+  link: https://doi.org/g8n5np
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-121955/v1
+  title: Integrative Genomics of the Mammalian Alveolar Macrophage Response to Intracellular
+    Mycobacteria
+  authors:
+  - Thomas J. Hall
+  - Michael P. Mullen
+  - Gillian P. McHugo
+  - Kate E. Killick
+  - "Siobh\xE1n C. Ring"
+  - Donagh P. Berry
+  - Carolina N. Correia
+  - John A. Browne
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Research Square Platform LLC
+  date: '2020-12-10'
+  link: https://doi.org/g8n5nq
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/770545
+  title: Genomic inbreeding trends in the global Thoroughbred horse population driven
+    by influential sire lines and selection for exercise trait-related genes
+  authors:
+  - Beatrice A. McGivney
+  - Haige Han
+  - Leanne R. Corduff
+  - Lisa M Katz
+  - Teruaki Tozaki
+  - David E. MacHugh
+  - Emmeline W. Hill
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-09-16'
+  link: https://doi.org/gktwpm
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/age.12798
+  title: A genomic prediction model for racecourse starts in the Thoroughbred horse
+  authors:
+  - B. A. McGivney
+  - B. Hernandez
+  - L. M. Katz
+  - D. E. MacHugh
+  - S. P. McGovern
+  - A. C. Parnell
+  - H. L. Wiencko
+  - E. W. Hill
+  publisher: Animal Genetics
+  date: '2019-07-01'
+  link: https://doi.org/gpf3ns
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/713669
+  title: Identification of expression quantitative trait loci in the skeletal muscle
+    of Thoroughbreds reveals heritable variation in expression of genes relevant to
+    cofactor metabolism
+  authors:
+  - G. Farries
+  - K. Bryan
+  - C. L. McGivney
+  - P. A. McGettigan
+  - K. F. Gough
+  - J.A. Browne
+  - D. E. MacHugh
+  - L. M. Katz
+  - E. W. Hill
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-07-24'
+  link: https://doi.org/gk2j4w
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31296769
+  title: Ancient cattle genomics, origins, and rapid turnover in the Fertile Crescent.
+  authors:
+  - Marta Pereira Verdugo
+  - Victoria E Mullin
+  - Amelie Scheu
+  - Valeria Mattiangeli
+  - Kevin G Daly
+  - Pierpaolo Maisano Delser
+  - Andrew J Hare
+  - Joachim Burger
+  - Matthew J Collins
+  - Ron Kehati
+  - Paula Hesse
+  - Deirdre Fulton
+  - Eberhard W Sauer
+  - Fatemeh A Mohaseb
+  - Hossein Davoudi
+  - Roya Khazaeli
+  - Johanna Lhuillier
+  - Claude Rapin
+  - Saeed Ebrahimi
+  - Mutalib Khasanov
+  - S M Farhad Vahidi
+  - David E MacHugh
+  - "Okan Ertu\u011Frul"
+  - Chaido Koukouli-Chrysanthaki
+  - Adamantios Sampson
+  - George Kazantzis
+  - Ioannis Kontopoulos
+  - Jelena Bulatovic
+  - "Ivana Stojanovi\u0107"
+  - Abdesalam Mikdad
+  - Norbert Benecke
+  - "J\xF6rg Linst\xE4dter"
+  - Mikhail Sablin
+  - Robin Bendrey
+  - Lionel Gourichon
+  - Benjamin S Arbuckle
+  - Marjan Mashkour
+  - David Orton
+  - Liora Kolska Horwitz
+  - Matthew D Teasdale
+  - Daniel G Bradley
+  publisher: Science (New York, N.Y.)
+  date: '2019-07-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31296769
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/age.12780
+  title: Chinese Mongolian horses may retain early domestic male genetic lineages
+    yet to be discovered
+  authors:
+  - H. Han
+  - B. Wallner
+  - D. Rigler
+  - D. E. MacHugh
+  - D. Manglai
+  - E. W. Hill
+  publisher: Animal Genetics
+  date: '2019-05-09'
+  link: https://doi.org/g8n5ns
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-37618-z
+  title: The bovine alveolar macrophage DNA methylome is resilient to infection with
+    Mycobacterium bovis
+  authors:
+  - "Alan Mark O\u2019Doherty"
+  - Kevin Christophe Rue-Albrecht
+  - David Andrew Magee
+  - Simone Ahting
+  - Rachelle Elizabeth Irwin
+  - Thomas Jonathan Hall
+  - John Arthur Browne
+  - Nicolas Claude Nalpas
+  - Colum Patrick Walsh
+  - Stephen Vincent Gordon
+  - "Marcin W\u0142odzimierz Wojewodzic"
+  - David Evan MacHugh
+  publisher: Scientific Reports
+  date: '2019-02-06'
+  link: https://doi.org/g8n5nt
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/520098
+  title: Alveolar macrophage chromatin is modified to orchestrate host response to<i>Mycobacterium
+    bovis</i>infection
+  authors:
+  - Thomas Jonathan Hall
+  - Douglas Vernimmen
+  - John Andrew Browne
+  - Michael P. Mullen
+  - Stephen Vincent Gordon
+  - David Evan MacHugh
+  - "Alan Mark O\u2019Doherty"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-01-14'
+  link: https://doi.org/gkwv89
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30604488
+  title: The contribution of myostatin (MSTN) and additional modifying genetic loci
+    to race distance aptitude in Thoroughbred horses racing in different geographic
+    regions.
+  authors:
+  - E W Hill
+  - B A McGivney
+  - M F Rooney
+  - L M Katz
+  - A Parnell
+  - D E MacHugh
+  publisher: Equine veterinary journal
+  date: '2019-01-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30604488
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2019.00927
+  title: A Population Genomics Analysis of the Native Irish Galway Sheep Breed
+  authors:
+  - Gillian P. McHugo
+  - Sam Browett
+  - Imtiaz A. S. Randhawa
+  - Dawn J. Howard
+  - Michael P. Mullen
+  - Ian W. Richardson
+  - Stephen D. E. Park
+  - David A. Magee
+  - Erik Scraggs
+  - Michael J. Dover
+  - Carolina N. Correia
+  - James P. Hanrahan
+  - David E. MacHugh
+  publisher: Frontiers in Genetics
+  date: '2019-10-08'
+  link: https://doi.org/gjd8mv
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/645754
+  title: A Population Genomics Analysis of the Native Irish Galway Sheep Breed
+  authors:
+  - Gillian P. McHugo
+  - Sam Browett
+  - Imtiaz A. S. Randhawa
+  - Dawn J. Howard
+  - Michael P. Mullen
+  - Ian W. Richardson
+  - Stephen D. E. Park
+  - David A. Magee
+  - Erik Scraggs
+  - Michael Dover
+  - Carolina N. Correia
+  - James P. Hanrahan
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-05-23'
+  link: https://doi.org/gkwn3w
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/age.12848
+  title: Analysis of genetic variation contributing to measured speed in Thoroughbreds
+    identifies genomic regions involved in the transcriptional response to exercise
+  authors:
+  - G. Farries
+  - K. F. Gough
+  - A. C. Parnell
+  - B. A. McGivney
+  - C. L. McGivney
+  - P. A. McGettigan
+  - D. E. MacHugh
+  - L. M. Katz
+  - E. W. Hill
+  publisher: Animal Genetics
+  date: '2019-09-11'
+  link: https://doi.org/g8n5nv
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2019.01215
+  title: Expression Quantitative Trait Loci in Equine Skeletal Muscle Reveals Heritable
+    Variation in Metabolism and the Training Responsive Transcriptome
+  authors:
+  - Gabriella Farries
+  - Kenneth Bryan
+  - Charlotte L. McGivney
+  - Paul A. McGettigan
+  - Katie F. Gough
+  - John A. Browne
+  - David E. MacHugh
+  - Lisa Michelle Katz
+  - Emmeline W. Hill
+  publisher: Frontiers in Genetics
+  date: '2019-11-26'
+  link: https://doi.org/g6dmsr
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2019.02081
+  title: 'Fasciola hepatica Infection in Cattle: Analyzing Responses of Peripheral
+    Blood Mononuclear Cells (PBMC) Using a Transcriptomics Approach'
+  authors:
+  - Andres Garcia-Campos
+  - Carolina N. Correia
+  - Amalia Naranjo-Lucena
+  - Laura Garza-Cuartero
+  - Gabriella Farries
+  - John A. Browne
+  - David E. MacHugh
+  - Grace Mulcahy
+  publisher: Frontiers in Immunology
+  date: '2019-08-29'
+  link: https://doi.org/g8n5nw
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2019.00327
+  title: "Genome to Phenome: Improving Animal Health, Production, and Well-Being \u2013\
+    \ A New USDA Blueprint for Animal Genome Research 2018\u20132027"
+  authors:
+  - Caird Rexroad
+  - Jeffrey Vallet
+  - Lakshmi Kumar Matukumalli
+  - James Reecy
+  - Derek Bickhart
+  - Harvey Blackburn
+  - Mark Boggess
+  - Hans Cheng
+  - Archie Clutter
+  - Noelle Cockett
+  - Catherine Ernst
+  - Janet E. Fulton
+  - John Liu
+  - Joan Lunney
+  - Holly Neibergs
+  - Catherine Purcell
+  - Timothy P. L. Smith
+  - Tad Sonstegard
+  - Jerry Taylor
+  - Bhanu Telugu
+  - Alison Van Eenennaam
+  - Curtis P. Van Tassell
+  - Kevin Wells
+  publisher: Frontiers in Genetics
+  date: '2019-05-16'
+  link: https://doi.org/ghrhqr
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/9781788016421-00105
+  title: CHAPTER 4. MicroRNAs and Mycobacterial Infections in Humans and Domestic
+    Animals
+  authors:
+  - Sarah L. Faherty O'Donnell
+  - Carolina N. Correia
+  - David E. MacHugh
+  publisher: Drug Discovery
+  date: '2019-01-01'
+  link: https://doi.org/g8n5nx
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esz032
+  title: Refinement of Global Domestic Horse Biogeography Using Historic Landrace
+    Chinese Mongolian Populations
+  authors:
+  - Haige Han
+  - Kenneth Bryan
+  - Wunierfu Shiraigol
+  - Dongyi Bai
+  - Yiping Zhao
+  - Wuyingga Bao
+  - Siqin Yang
+  - Wengang Zhang
+  - David E MacHugh
+  - Manglai Dugarjaviin
+  - Emmeline W Hill
+  publisher: Journal of Heredity
+  date: '2019-10-19'
+  link: https://doi.org/g8n5nz
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12915-019-0724-7
+  title: Unlocking the origins and biology of domestic animals using ancient DNA and
+    paleogenomics
+  authors:
+  - Gillian P. McHugo
+  - Michael J. Dover
+  - David E. MacHugh
+  publisher: BMC Biology
+  date: '2019-12-01'
+  link: https://doi.org/ggwq9j
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30427726
+  title: 'Functional Annotation of Animal Genomes (FAANG): Current Achievements and
+    Roadmap.'
+  authors:
+  - Elisabetta Giuffra
+  - Christopher K Tuggle
+  publisher: Annual review of animal biosciences
+  date: '2018-11-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30427726
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30622640
+  title: 'Domestication of cattle: Two or three events?'
+  authors:
+  - Daniel Pitt
+  - Natalia Sevane
+  - Ezequiel L Nicolazzi
+  - David E MacHugh
+  - Stephen D E Park
+  - Licia Colli
+  - Rodrigo Martinez
+  - Michael W Bruford
+  - Pablo Orozco-terWengel
+  publisher: Evolutionary applications
+  date: '2018-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30622640
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/294330
+  title: RNA sequencing (RNA-seq) reveals extremely low levels of reticulocyte-derived
+    globin gene transcripts in peripheral blood from horses (<i>Equus caballus</i>)
+    and cattle (<i>Bos taurus</i>)
+  authors:
+  - Carolina N. Correia
+  - Kirsten E. McLoughlin
+  - Nicolas C. Nalpas
+  - David A. Magee
+  - John A. Browne
+  - Kevin Rue-Albrecht
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-04-04'
+  link: https://doi.org/gkxrnw
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29557774
+  title: Comparative 'omics analyses differentiate Mycobacterium tuberculosis and
+    Mycobacterium bovis and reveal distinct macrophage responses to infection with
+    the human and bovine tubercle bacilli.
+  authors:
+  - Kerri M Malone
+  - "K\xE9vin Rue-Albrecht"
+  - David A Magee
+  - Kevin Conlon
+  - Olga T Schubert
+  - Nicolas C Nalpas
+  - John A Browne
+  - Alicia Smyth
+  - Eamonn Gormley
+  - Ruedi Aebersold
+  - David E MacHugh
+  - Stephen V Gordon
+  publisher: Microbial genomics
+  date: '2018-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29557774
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29520297
+  title: Genomic Characterisation of the Indigenous Irish Kerry Cattle Breed.
+  authors:
+  - Sam Browett
+  - Gillian McHugo
+  - Ian W Richardson
+  - David A Magee
+  - Stephen D E Park
+  - Alan G Fahey
+  - John F Kearney
+  - Carolina N Correia
+  - Imtiaz A S Randhawa
+  - David E MacHugh
+  publisher: Frontiers in genetics
+  date: '2018-02-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29520297
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2018.00278
+  title: RNA Sequencing (RNA-Seq) Reveals Extremely Low Levels of Reticulocyte-Derived
+    Globin Gene Transcripts in Peripheral Blood From Horses (Equus caballus) and Cattle
+    (Bos taurus)
+  authors:
+  - Carolina N. Correia
+  - Kirsten E. McLoughlin
+  - Nicolas C. Nalpas
+  - David A. Magee
+  - John A. Browne
+  - Kevin Rue-Albrecht
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Frontiers in Genetics
+  date: '2018-08-14'
+  link: https://doi.org/gd4548
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29230835
+  title: Genetic contributions to precocity traits in racing Thoroughbreds.
+  authors:
+  - G Farries
+  - P A McGettigan
+  - K F Gough
+  - B A McGivney
+  - D E MacHugh
+  - L M Katz
+  - E W Hill
+  publisher: Animal genetics
+  date: '2017-12-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29230835
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/210229
+  title: Genomic characterisation and conservation genetics of the indigenous Irish
+    Kerry cattle breed
+  authors:
+  - Sam Browett
+  - Gillian McHugo
+  - Ian W. Richardson
+  - David A. Magee
+  - Stephen D. E. Park
+  - Alan G. Fahey
+  - John F. Kearney
+  - Carolina N. Correia
+  - Imtiaz A. S. Randhawa
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-28'
+  link: https://doi.org/gkxmth
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29019469
+  title: Genetic origin, admixture and population history of aurochs (Bos primigenius)
+    and primitive European cattle.
+  authors:
+  - M R Upadhyay
+  - W Chen
+  - J A Lenstra
+  - C R J Goderie
+  - D E MacHugh
+  - S D E Park
+  - D A Magee
+  - D Matassino
+  - F Ciani
+  - H-J Megens
+  - J A M van Arendonk
+  - M A M Groenen
+  publisher: Heredity
+  date: '2017-10-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29019469
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2017.00118
+  title: Circulating microRNAs as Potential Biomarkers of Infectious Disease
+  authors:
+  - Carolina N. Correia
+  - Nicolas C. Nalpas
+  - Kirsten E. McLoughlin
+  - John A. Browne
+  - Stephen V. Gordon
+  - David E. MacHugh
+  - Ronan G. Shaughnessy
+  publisher: Frontiers in Immunology
+  date: '2017-02-16'
+  link: https://doi.org/gfrm5m
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1071/RD15128
+  title: Differential gene expression in the endometrium reveals cytoskeletal and
+    immunological genes in lactating dairy cows genetically divergent for fertility
+    traits
+  authors:
+  - Bruce Moran
+  - Stephen T. Butler
+  - Stephen G. Moore
+  - David E. MacHugh
+  - Christopher J. Creevey
+  publisher: Reproduction, Fertility and Development
+  date: '2017-01-01'
+  link: https://doi.org/g8n5n2
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-017-4007-9
+  title: 'Equine skeletal muscle adaptations to exercise and training: evidence of
+    differential regulation of autophagosomal and mitochondrial components'
+  authors:
+  - Kenneth Bryan
+  - Beatrice A. McGivney
+  - Gabriella Farries
+  - Paul A. McGettigan
+  - Charlotte L. McGivney
+  - Katie F. Gough
+  - David E. MacHugh
+  - Lisa M. Katz
+  - Emmeline W. Hill
+  publisher: BMC Genomics
+  date: '2017-08-09'
+  link: https://doi.org/g8n5n3
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/hdy.2016.79
+  title: Genetic origin, admixture and population history of aurochs (Bos primigenius)
+    and primitive European cattle
+  authors:
+  - M R Upadhyay
+  - W Chen
+  - J A Lenstra
+  - C R J Goderie
+  - D E MacHugh
+  - S D E Park
+  - D A Magee
+  - D Matassino
+  - F Ciani
+  - H-J Megens
+  - J A M van Arendonk
+  - M A M Groenen
+  publisher: Heredity
+  date: '2016-09-28'
+  link: https://doi.org/f9kt3n
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2017.00003
+  title: Genome-Wide microRNA Binding Site Variation between Extinct Wild Aurochs
+    and Modern Cattle Identifies Candidate microRNA-Regulated Domestication Genes
+  authors:
+  - Martin Braud
+  - David A. Magee
+  - Stephen D. E. Park
+  - Tad S. Sonstegard
+  - Sinead M. Waters
+  - David E. MacHugh
+  - Charles Spillane
+  publisher: Frontiers in Genetics
+  date: '2017-01-31'
+  link: https://doi.org/gmr4w6
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1146/annurev-animal-022516-022747
+  title: 'Taming the Past: Ancient DNA and the Study of Animal Domestication'
+  authors:
+  - David E. MacHugh
+  - Greger Larson
+  - Ludovic Orlando
+  publisher: Annual Review of Animal Biosciences
+  date: '2017-02-08'
+  link: https://doi.org/gfzqd3
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-016-0971-3
+  title: 'GOexpress: an R/Bioconductor package for the identification and visualisation
+    of robust gene ontology signatures through supervised learning of gene expression
+    data'
+  authors:
+  - "K\xE9vin Rue-Albrecht"
+  - Paul A. McGettigan
+  - "Belinda Hern\xE1ndez"
+  - Nicolas C. Nalpas
+  - David A. Magee
+  - Andrew C. Parnell
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: BMC Bioinformatics
+  date: '2016-03-11'
+  link: https://doi.org/f8vbvt
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S1751731115002505
+  title: Iodine supplementation of the pregnant dam alters intestinal gene expression
+    and immunoglobulin uptake in the newborn lamb
+  authors:
+  - F.M. McGovern
+  - D.A. Magee
+  - J.A. Browne
+  - D.E. MacHugh
+  - T.M. Boland
+  publisher: animal
+  date: '2016-01-01'
+  link: https://doi.org/f8p8wg
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tube.2015.10.003
+  title: The MarR family transcription factor Rv1404 coordinates adaptation of Mycobacterium
+    tuberculosis to acid stress via controlled expression of Rv1405c, a virulence-associated
+    methyltransferase
+  authors:
+  - Claire Healy
+  - Paul Golby
+  - David E. MacHugh
+  - Stephen V. Gordon
+  publisher: Tuberculosis
+  date: '2016-03-01'
+  link: https://doi.org/f8hd8g
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2015.00023
+  title: Analysis of the Bovine Monocyte-Derived Macrophage Response to Mycobacterium
+    avium Subspecies Paratuberculosis Infection Using RNA-seq
+  authors:
+  - Maura E. Casey
+  - Kieran G. Meade
+  - Nicolas C. Nalpas
+  - Maria Taraktsoglou
+  - John A. Browne
+  - Kate E. Killick
+  - Stephen D. E. Park
+  - Eamonn Gormley
+  - Karsten Hokamp
+  - David A. Magee
+  - David E. MacHugh
+  publisher: Frontiers in Immunology
+  date: '2015-02-04'
+  link: https://doi.org/g8n5n4
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-015-0790-2
+  title: Genome sequencing of the extinct Eurasian wild aurochs, Bos primigenius,
+    illuminates the phylogeography and evolution of cattle
+  authors:
+  - Stephen D E Park
+  - David A. Magee
+  - Paul A. McGettigan
+  - Matthew D. Teasdale
+  - Ceiridwen J. Edwards
+  - Amanda J. Lohan
+  - Alison Murphy
+  - Martin Braud
+  - Mark T. Donoghue
+  - Yuan Liu
+  - Andrew T. Chamberlain
+  - "K\xE9vin Rue-Albrecht"
+  - Steven Schroeder
+  - Charles Spillane
+  - Shuaishuai Tai
+  - Daniel G. Bradley
+  - Tad S. Sonstegard
+  - Brendan J. Loftus
+  - David E. MacHugh
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2015-10-26'
+  link: https://doi.org/g8n5n5
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2015.00156
+  title: Genomic imprinting effects on complex traits in domesticated animal species
+  authors:
+  - "Alan M. O\u2019Doherty"
+  - David E. MacHugh
+  - Charles Spillane
+  - David A. Magee
+  publisher: Frontiers in Genetics
+  date: '2015-04-24'
+  link: https://doi.org/gptfpc
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-015-2246-1
+  title: High-throughput transcriptomics reveals common and strain-specific responses
+    of human macrophages to infection with Mycobacterium abscessus Smooth and Rough
+    variants
+  authors:
+  - Anna Aulicino
+  - Adam M. Dinan
+  - Aleksandra A. Miranda-CasoLuengo
+  - John A. Browne
+  - "K\xE9vin Rue-Albrecht"
+  - David E. MacHugh
+  - Brendan J. Loftus
+  publisher: BMC Genomics
+  date: '2015-12-01'
+  link: https://doi.org/gb3hrx
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tube.2014.10.011
+  title: MicroRNA profiling of the bovine alveolar macrophage response to Mycobacterium
+    bovis infection suggests pathogen survival is enhanced by microRNA regulation
+    of endocytosis and lysosome trafficking
+  authors:
+  - Peter Vegh
+  - David A. Magee
+  - Nicolas C. Nalpas
+  - Kenneth Bryan
+  - Matthew S. McCabe
+  - John A. Browne
+  - Kevin M. Conlon
+  - Stephen V. Gordon
+  - Daniel G. Bradley
+  - David E. MacHugh
+  - David J. Lynn
+  publisher: Tuberculosis
+  date: '2015-01-01'
+  link: https://doi.org/g8n5n6
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep13629
+  title: RNA sequencing provides exquisite insight into the manipulation of the alveolar
+    macrophage by tubercle bacilli
+  authors:
+  - Nicolas C. Nalpas
+  - David A. Magee
+  - Kevin M. Conlon
+  - John A. Browne
+  - Claire Healy
+  - Kirsten E. McLoughlin
+  - "K\xE9vin Rue-Albrecht"
+  - Paul A. McGettigan
+  - Kate E. Killick
+  - Eamonn Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Scientific Reports
+  date: '2015-09-08'
+  link: https://doi.org/g8n5n7
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0134310
+  title: The Identification of Circulating MiRNA in Bovine Serum and Their Potential
+    as Novel Biomarkers of Early Mycobacterium avium subsp paratuberculosis Infection
+  authors:
+  - Damien Farrell
+  - Ronan G. Shaughnessy
+  - Louise Britton
+  - David E. MacHugh
+  - Bryan Markey
+  - Stephen V. Gordon
+  publisher: PLOS ONE
+  date: '2015-07-28'
+  link: https://doi.org/f7zhz6
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24990393
+  title: Imprinted loci in domestic livestock species as epigenomic targets for artificial
+    selection of complex traits.
+  authors:
+  - D A Magee
+  - C Spillane
+  - E W Berkowicz
+  - K M Sikora
+  - D E MacHugh
+  publisher: Animal genetics
+  date: '2014-07-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24990393
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24882682
+  title: Innate cytokine profiling of bovine alveolar macrophages reveals commonalities
+    and divergence in the response to Mycobacterium bovis and Mycobacterium tuberculosis
+    infection.
+  authors:
+  - David A Magee
+  - Kevin M Conlon
+  - Nicolas C Nalpas
+  - John A Browne
+  - Chris Pirson
+  - Claire Healy
+  - Kirsten E McLoughlin
+  - Jing Chen
+  - H Martin Vordermeier
+  - Eamonn Gormley
+  - David E MacHugh
+  - Stephen V Gordon
+  publisher: Tuberculosis (Edinburgh, Scotland)
+  date: '2014-05-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24882682
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2014.00536
+  title: Comparative Functional Genomics and the Bovine Macrophage Response to Strains
+    of the Mycobacterium Genus
+  authors:
+  - "K\xC3\xA9vin Rue-Albrecht"
+  - David A. Magee
+  - Kate E. Killick
+  - Nicolas C. Nalpas
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Frontiers in Immunology
+  date: '2014-11-05'
+  link: https://doi.org/g8n5n8
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/jimmunol.1401980
+  title: "Definition of the Cattle Killer Cell Ig\u2013like Receptor Gene Family:\
+    \ Comparison with Aurochs and Human Counterparts"
+  authors:
+  - Nicholas D. Sanderson
+  - Paul J. Norman
+  - Lisbeth A. Guethlein
+  - Shirley A. Ellis
+  - Christina Williams
+  - Matthew Breen
+  - Steven D. E. Park
+  - David A. Magee
+  - Farbod Babrzadeh
+  - Andrew Warry
+  - Mick Watson
+  - Daniel G. Bradley
+  - David E. MacHugh
+  - Peter Parham
+  - John A. Hammond
+  publisher: The Journal of Immunology
+  date: '2014-12-15'
+  link: https://doi.org/f6smgp
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2527/af.2014-0017
+  title: Interrogation of modern and ancient genomes reveals the complex domestic
+    history of cattle
+  authors:
+  - David A. Magee
+  - David E. MacHugh
+  - Ceiridwen J. Edwards
+  publisher: Animal Frontiers
+  date: '2014-07-01'
+  link: https://doi.org/g8n5n9
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2014.00422
+  title: Key Hub and Bottleneck Genes Differentiate the Macrophage Response to Virulent
+    and Attenuated Mycobacterium bovis
+  authors:
+  - Kate E. Killick
+  - David A. Magee
+  - Stephen D. E. Park
+  - Maria Taraktsoglou
+  - John A. Browne
+  - Kevin M. Conlon
+  - Nicolas C. Nalpas
+  - Eamonn Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  - Karsten Hokamp
+  publisher: Frontiers in Immunology
+  date: '2014-10-01'
+  link: https://doi.org/g8n5pb
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1416991111
+  title: Prehistoric genomes reveal the genetic foundation and cost of horse domestication
+  authors:
+  - Mikkel Schubert
+  - "H\xE1kon J\xF3nsson"
+  - Dan Chang
+  - Clio Der Sarkissian
+  - Luca Ermini
+  - "Aur\xE9lien Ginolhac"
+  - Anders Albrechtsen
+  - Isabelle Dupanloup
+  - Adrien Foucal
+  - Bent Petersen
+  - Matteo Fumagalli
+  - Maanasa Raghavan
+  - Andaine Seguin-Orlando
+  - Thorfinn S. Korneliussen
+  - Amhed M. V. Velazquez
+  - Jesper Stenderup
+  - Cindi A. Hoover
+  - Carl-Johan Rubin
+  - Ahmed H. Alfarhan
+  - Saleh A. Alquraishi
+  - Khaled A. S. Al-Rasheid
+  - David E. MacHugh
+  - Ted Kalbfleisch
+  - James N. MacLeod
+  - Edward M. Rubin
+  - Thomas Sicheritz-Ponten
+  - Leif Andersson
+  - Michael Hofreiter
+  - Tomas Marques-Bonet
+  - M. Thomas P. Gilbert
+  - Rasmus Nielsen
+  - Laurent Excoffier
+  - Eske Willerslev
+  - Beth Shapiro
+  - Ludovic Orlando
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2014-12-15'
+  link: https://doi.org/f3nvs8
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2014.00396
+  title: RNA-seq Transcriptional Profiling of Peripheral Blood Leukocytes from Cattle
+    Infected with Mycobacterium bovis
+  authors:
+  - Kirsten E. McLoughlin
+  - Nicolas C. Nalpas
+  - "K\xC3\xA9vin Rue-Albrecht"
+  - John A. Browne
+  - David A. Magee
+  - Kate E. Killick
+  - Stephen D. E. Park
+  - Karsten Hokamp
+  - Kieran G. Meade
+  - "Cliona O\xE2\u20AC\u2122Farrelly"
+  - Eamonn Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Frontiers in Immunology
+  date: '2014-08-26'
+  link: https://doi.org/g8n5pc
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24740156
+  title: SNPs for parentage testing and traceability in globally diverse breeds of
+    sheep.
+  authors:
+  - Michael P Heaton
+  - Kreg A Leymaster
+  - Theodore S Kalbfleisch
+  - James W Kijas
+  - Shannon M Clarke
+  - John McEwan
+  - Jillian F Maddox
+  - Veronica Basnayake
+  - Dustin T Petrik
+  - Barry Simpson
+  - Timothy P L Smith
+  - Carol G Chitko-McKown
+  publisher: PloS one
+  date: '2014-04-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24740156
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0103813
+  title: Selection Signatures in Worldwide Sheep Populations
+  authors:
+  - Maria-Ines Fariello
+  - Bertrand Servin
+  - Gwenola Tosser-Klopp
+  - Rachel Rupp
+  - Carole Moreno
+  - Magali San Cristobal
+  - Simon Boitard
+  publisher: PLoS ONE
+  date: '2014-08-15'
+  link: https://doi.org/gn5757
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24021155
+  title: Profiling microRNA expression in bovine alveolar macrophages using RNA-seq.
+  authors:
+  - Peter Vegh
+  - Amir B K Foroushani
+  - David A Magee
+  - Matthew S McCabe
+  - John A Browne
+  - Nicolas C Nalpas
+  - Kevin M Conlon
+  - Stephen V Gordon
+  - Daniel G Bradley
+  - David E MacHugh
+  - David J Lynn
+  publisher: Veterinary immunology and immunopathology
+  date: '2013-08-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24021155
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23795683
+  title: Receptor-mediated recognition of mycobacterial pathogens.
+  authors:
+  - Kate E Killick
+  - "Cl\xEDona N\xED Cheallaigh"
+  - Cliona O'Farrelly
+  - Karsten Hokamp
+  - David E MacHugh
+  - James Harris
+  publisher: Cellular microbiology
+  date: '2013-07-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23795683
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23278111
+  title: Genome-wide association study of osteochondrosis in the tarsocrural joint
+    of Dutch Warmblood horses identifies susceptibility loci on chromosomes 3 and
+    10.
+  authors:
+  - N Orr
+  - E W Hill
+  - J Gu
+  - P Govindarajan
+  - J Conroy
+  - E M van Grevenhof
+  - B J Ducro
+  - J A M van Arendonk
+  - J H Knaap
+  - P R van Weeren
+  - D E Machugh
+  - S Ennis
+  - P A J Brama
+  publisher: Animal genetics
+  date: '2012-12-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23278111
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23565803
+  title: Whole-transcriptome, high-throughput RNA sequence analysis of the bovine
+    macrophage response to Mycobacterium bovis infection in vitro.
+  authors:
+  - Nicolas C Nalpas
+  - Stephen D E Park
+  - David A Magee
+  - Maria Taraktsoglou
+  - John A Browne
+  - Kevin M Conlon
+  - "K\xE9vin Rue-Albrecht"
+  - Kate E Killick
+  - Karsten Hokamp
+  - Amanda J Lohan
+  - Brendan J Loftus
+  - Eamonn Gormley
+  - Stephen V Gordon
+  - David E MacHugh
+  publisher: BMC genomics
+  date: '2013-04-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23565803
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9781118522158.ch17
+  title: Genomics of Performance
+  authors:
+  - Emmeline W. Hill
+  - Lisa M. Katz
+  - David E. MacHugh
+  publisher: Equine Genomics
+  date: '2013-02-04'
+  link: https://doi.org/g8n5pd
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22845060
+  title: 'Horses for courses: a DNA-based test for race distance aptitude in thoroughbred
+    racehorses.'
+  authors:
+  - Emmeline W Hill
+  - Donal P Ryan
+  - David E MacHugh
+  publisher: Recent patents on DNA & gene sequences
+  date: '2012-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22845060
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22497477
+  title: MSTN genotypes in Thoroughbred horses influence skeletal muscle gene expression
+    and racetrack performance.
+  authors:
+  - Beatrice A McGivney
+  - John A Browne
+  - Rita G Fonseca
+  - Lisa M Katz
+  - David E Machugh
+  - Ronan Whiston
+  - Emmeline W Hill
+  publisher: Animal genetics
+  date: '2012-02-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22497477
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22497461
+  title: PHLDA2 is an imprinted gene in cattle.
+  authors:
+  - K M Sikora
+  - D A Magee
+  - E W Berkowicz
+  - P Lonergan
+  - A C O Evans
+  - F Carter
+  - A Comte
+  - S M Waters
+  - D E MacHugh
+  - C Spillane
+  publisher: Animal genetics
+  date: '2011-12-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22497461
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22851761
+  title: Dietary n-3 polyunsaturated fatty acid supplementation alters the expression
+    of genes involved in the control of fertility in the bovine uterine endometrium.
+  authors:
+  - "Sin\xE9ad M Waters"
+  - Gerard S Coyne
+  - David A Kenny
+  - David E MacHugh
+  - Dermot G Morris
+  publisher: Physiological genomics
+  date: '2012-07-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22851761
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22404351
+  title: "PGC-1\u03B1 encoded by the PPARGC1A gene regulates oxidative energy metabolism\
+    \ in equine skeletal muscle during exercise."
+  authors:
+  - S S Eivers
+  - B A McGivney
+  - J Gu
+  - D E MacHugh
+  - L M Katz
+  - E W Hill
+  publisher: Animal genetics
+  date: '2011-09-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22404351
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22244152
+  title: Functional characterisation of bovine interleukin 8 promoter haplotypes in
+    vitro.
+  authors:
+  - Kieran G Meade
+  - Grace M O'Gorman
+  - Fernando Narciandi
+  - David E Machugh
+  - Cliona O'Farrelly
+  publisher: Molecular immunology
+  date: '2012-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22244152
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22346734
+  title: Genome-wide analysis of the world's sheep breeds reveals high levels of historic
+    mixture and strong recent selection.
+  authors:
+  - James W Kijas
+  - Johannes A Lenstra
+  - Ben Hayes
+  - Simon Boitard
+  - Laercio R Porto Neto
+  - Magali San Cristobal
+  - Bertrand Servin
+  - Russell McCulloch
+  - Vicki Whan
+  - Kimberly Gietzen
+  - Samuel Paiva
+  - William Barendse
+  - Elena Ciani
+  - Herman Raadsma
+  - John McEwan
+  - Brian Dalrymple
+  publisher: PLoS biology
+  date: '2012-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22346734
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22221028
+  title: Single nucleotide polymorphisms in the imprinted bovine insulin-like growth
+    factor 2 receptor gene (IGF2R) are associated with body size traits in Irish Holstein-Friesian
+    cattle.
+  authors:
+  - E W Berkowicz
+  - D A Magee
+  - D P Berry
+  - K M Sikora
+  - D J Howard
+  - M P Mullen
+  - R D Evans
+  - C Spillane
+  - D E MacHugh
+  publisher: Animal genetics
+  date: '2011-05-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22221028
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22138316
+  title: Impact of delayed processing of bovine peripheral blood on differential gene
+    expression.
+  authors:
+  - Michael P Sheridan
+  - John A Browne
+  - David E MacHugh
+  - Eamon Costello
+  - Eamonn Gormley
+  publisher: Veterinary immunology and immunopathology
+  date: '2011-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22138316
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22016373
+  title: MSTN genotype (g.66493737C/T) association with speed indices in Thoroughbred
+    racehorses.
+  authors:
+  - Emmeline W Hill
+  - Rita G Fonseca
+  - Beatrice A McGivney
+  - Jingjing Gu
+  - David E MacHugh
+  - Lisa M Katz
+  publisher: 'Journal of applied physiology (Bethesda, Md. : 1985)'
+  date: '2011-10-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22016373
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22384131
+  title: Global gene expression and systems biology analysis of bovine monocyte-derived
+    macrophages in response to in vitro challenge with Mycobacterium bovis.
+  authors:
+  - David A Magee
+  - Maria Taraktsoglou
+  - Kate E Killick
+  - Nicolas C Nalpas
+  - John A Browne
+  - Stephen D E Park
+  - Kevin M Conlon
+  - David J Lynn
+  - Karsten Hokamp
+  - Stephen V Gordon
+  - Eamonn Gormley
+  - David E MacHugh
+  publisher: PloS one
+  date: '2012-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22384131
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22455317
+  title: Pan-genomic analysis of bovine monocyte-derived macrophage gene expression
+    in response to in vitro infection with Mycobacterium avium subspecies paratuberculosis.
+  authors:
+  - David E Machugh
+  - Maria Taraktsoglou
+  - Kate E Killick
+  - Nicolas C Nalpas
+  - John A Browne
+  - Stephen DE Park
+  - Karsten Hokamp
+  - Eamonn Gormley
+  - David A Magee
+  publisher: Veterinary research
+  date: '2012-03-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22455317
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22235840
+  title: Polymorphism discovery and allele frequency estimation using high-throughput
+    DNA sequencing of target-enriched pooled DNA samples.
+  authors:
+  - Michael P Mullen
+  - Christopher J Creevey
+  - Donagh P Berry
+  - Matt S McCabe
+  - David A Magee
+  - Dawn J Howard
+  - Aideen P Killeen
+  - Stephen D Park
+  - Paul A McGettigan
+  - Matt C Lucy
+  - David E Machugh
+  - Sinead M Waters
+  publisher: BMC genomics
+  date: '2012-01-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22235840
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22273681
+  title: The genetic origin and history of speed in the Thoroughbred racehorse.
+  authors:
+  - Mim A Bower
+  - Beatrice A McGivney
+  - Michael G Campana
+  - Jingjing Gu
+  - Lisa S Andersson
+  - Elizabeth Barrett
+  - Catherine R Davis
+  - Sofia Mikko
+  - Frauke Stock
+  - Valery Voronkova
+  - Daniel G Bradley
+  - Alan G Fahey
+  - Gabriella Lindgren
+  - David E MacHugh
+  - Galina Sulimova
+  - Emmeline W Hill
+  publisher: Nature communications
+  date: '2012-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22273681
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21242003
+  title: Transcriptional profiling of immune genes in bovine monocyte-derived macrophages
+    exposed to bacterial antigens.
+  authors:
+  - Maria Taraktsoglou
+  - Urszula Szalabska
+  - David A Magee
+  - John A Browne
+  - Torres Sweeney
+  - Eamonn Gormley
+  - David E MacHugh
+  publisher: Veterinary immunology and immunopathology
+  date: '2010-12-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21242003
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20528848
+  title: Associations between newly discovered polymorphisms in the Bos taurus growth
+    hormone receptor gene and performance traits in Holstein-Friesian dairy cattle.
+  authors:
+  - S M Waters
+  - M S McCabe
+  - D J Howard
+  - L Giblin
+  - D A Magee
+  - D E MacHugh
+  - D P Berry
+  publisher: Animal genetics
+  date: '2011-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20528848
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20822563
+  title: Single nucleotide polymorphisms at the imprinted bovine insulin-like growth
+    factor 2 (IGF2) locus are associated with dairy performance in Irish Holstein-Friesian
+    cattle.
+  authors:
+  - Erik W Berkowicz
+  - David A Magee
+  - Klaudia M Sikora
+  - Donagh P Berry
+  - Dawn J Howard
+  - Michael P Mullen
+  - Ross D Evans
+  - Charles Spillane
+  - David E MacHugh
+  publisher: The Journal of dairy research
+  date: '2010-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20822563
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21214909
+  title: "DNA sequence polymorphisms within the bovine guanine nucleotide-binding\
+    \ protein Gs subunit alpha (Gs\u03B1)-encoding (GNAS) genomic imprinting domain\
+    \ are associated with performance traits."
+  authors:
+  - Klaudia M Sikora
+  - David A Magee
+  - Erik W Berkowicz
+  - Donagh P Berry
+  - Dawn J Howard
+  - Michael P Mullen
+  - Ross D Evans
+  - David E Machugh
+  - Charles Spillane
+  publisher: BMC genetics
+  date: '2011-01-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21214909
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3168/jds.2011-94-2-1069
+  title: "Erratum to \u201CAssociations between novel single nucleotide polymorphisms\
+    \ in the Bos taurus growth hormone gene and performance traits in Holstein-Friesian\
+    \ dairy cattle\u201D (J. Dairy Sci. 93:5959\u20135969)"
+  authors:
+  - M.P. Mullen
+  - D.P. Berry
+  - D.J. Howard
+  - M.G. Diskin
+  - C.O. Lynch
+  - E.W. Berkowicz
+  - D.A. Magee
+  - D.E. MacHugh
+  - S.M. Waters
+  publisher: Journal of Dairy Science
+  date: '2011-02-01'
+  link: https://doi.org/bqkfmd
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22182502
+  title: Genome-wide transcriptional profiling of peripheral blood leukocytes from
+    cattle infected with Mycobacterium bovis reveals suppression of host immune genes.
+  authors:
+  - Kate E Killick
+  - John A Browne
+  - Stephen D E Park
+  - David A Magee
+  - Irene Martin
+  - Kieran G Meade
+  - Stephen V Gordon
+  - Eamonn Gormley
+  - Cliona O'Farrelly
+  - Karsten Hokamp
+  - David E MacHugh
+  publisher: BMC genomics
+  date: '2011-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22182502
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/d3040660
+  title: "On the Breeds of Cattle\u2014Historic and Current Classifications"
+  authors:
+  - Marleen Felius
+  - Peter A. Koolmees
+  - Bert Theunissen
+  - ' European Cattle Genetic Diversity Consortium'
+  - Johannes A. Lenstra
+  publisher: Diversity
+  date: '2011-11-09'
+  link: https://doi.org/c86hbr
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20817761
+  title: Single nucleotide polymorphisms within the bovine DLK1-DIO3 imprinted domain
+    are associated with economically important production traits in cattle.
+  authors:
+  - David A Magee
+  - Donagh P Berry
+  - Erik W Berkowicz
+  - Klaudia M Sikora
+  - Dawn J Howard
+  - Michael P Mullen
+  - Ross D Evans
+  - Charles Spillane
+  - David E MacHugh
+  publisher: The Journal of heredity
+  date: '2010-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20817761
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22445369
+  title: A catalogue of validated single nucleotide polymorphisms in bovine orthologs
+    of mammalian imprinted genes and associations with beef production traits.
+  authors:
+  - D A Magee
+  - E W Berkowicz
+  - K M Sikora
+  - D P Berry
+  - S D E Park
+  - A K Kelly
+  - T Sweeney
+  - D A Kenny
+  - R D Evans
+  - B W Wickham
+  - C Spillane
+  - D E Machugh
+  publisher: 'Animal : an international journal of animal bioscience'
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22445369
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21094770
+  title: Associations between novel single nucleotide polymorphisms in the Bos taurus
+    growth hormone gene and performance traits in Holstein-Friesian dairy cattle.
+  authors:
+  - M P Mullen
+  - D P Berry
+  - D J Howard
+  - M G Diskin
+  - C O Lynch
+  - E W Berkowicz
+  - D A Magee
+  - D E MacHugh
+  - S M Waters
+  publisher: Journal of dairy science
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21094770
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21070269
+  title: Genome-wide SNP association-based localization of a dwarfism gene in Friesian
+    dwarf horses.
+  authors:
+  - N Orr
+  - W Back
+  - J Gu
+  - P Leegwater
+  - P Govindarajan
+  - J Conroy
+  - B Ducro
+  - J A M Van Arendonk
+  - D E MacHugh
+  - S Ennis
+  - E W Hill
+  - P A J Brama
+  publisher: Animal genetics
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21070269
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21070277
+  title: Targets of selection in the Thoroughbred genome contain exercise-relevant
+    gene SNPs associated with elite racecourse performance.
+  authors:
+  - E W Hill
+  - J Gu
+  - B A McGivney
+  - D E MacHugh
+  publisher: Animal genetics
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21070277
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21059062
+  title: Association of sequence variants in CKM (creatine kinase, muscle) and COX4I2
+    (cytochrome c oxidase, subunit 4, isoform 2) genes with racing performance in
+    Thoroughbred horses.
+  authors:
+  - J Gu
+  - D E MacHugh
+  - B A McGivney
+  - S D E Park
+  - L M Katz
+  - E W Hill
+  publisher: Equine veterinary journal. Supplement
+  date: '2010-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21059062
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21059063
+  title: Moderate and high intensity sprint exercise induce differential responses
+    in COX4I2 and PDK4 gene expression in Thoroughbred horse skeletal muscle.
+  authors:
+  - E W Hill
+  - S S Eivers
+  - B A McGivney
+  - R G Fonseca
+  - J Gu
+  - N A Smith
+  - J A Browne
+  - D E MacHugh
+  - L M Katz
+  publisher: Equine veterinary journal. Supplement
+  date: '2010-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21059063
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20967645
+  title: High concordance of bovine single nucleotide polymorphism genotypes generated
+    using two independent genotyping strategies.
+  authors:
+  - D A Magee
+  - E W Berkowicz
+  - K M Sikora
+  - T Sweeney
+  - D A Kenny
+  - A K Kelly
+  - R D Evans
+  - B W Wickham
+  - D G Bradley
+  - C Spillane
+  - D E MacHugh
+  publisher: Animal biotechnology
+  date: '2010-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20967645
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20562352
+  title: 'Technical note: High fidelity of whole-genome amplified sheep (Ovis aries)
+    deoxyribonucleic acid using a high-density single nucleotide polymorphism array-based
+    genotyping platform.'
+  authors:
+  - D A Magee
+  - S D E Park
+  - E Scraggs
+  - A M Murphy
+  - M L Doherty
+  - J W Kijas
+  - D E MacHugh
+  publisher: Journal of animal science
+  date: '2010-06-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20562352
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19861432
+  title: Alterations in oxidative gene expression in equine skeletal muscle following
+    exercise and training.
+  authors:
+  - Suzanne S Eivers
+  - Beatrice A McGivney
+  - Rita G Fonseca
+  - David E MacHugh
+  - Katie Menson
+  - Stephen D Park
+  - Jose-Luis L Rivero
+  - Cormac T Taylor
+  - Lisa M Katz
+  - Emmeline W Hill
+  publisher: Physiological genomics
+  date: '2009-10-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19861432
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20174668
+  title: A complete mitochondrial genome sequence from a mesolithic wild aurochs (Bos
+    primigenius).
+  authors:
+  - Ceiridwen J Edwards
+  - David A Magee
+  - Stephen D E Park
+  - Paul A McGettigan
+  - Amanda J Lohan
+  - Alison Murphy
+  - Emma K Finlay
+  - Beth Shapiro
+  - Andrew T Chamberlain
+  - Martin B Richards
+  - Daniel G Bradley
+  - Brendan J Loftus
+  - David E MacHugh
+  publisher: PloS one
+  date: '2010-02-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20174668
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20932346
+  title: A genome-wide SNP-association study confirms a sequence variant (g.66493737C>T)
+    in the equine myostatin (MSTN) gene as the most powerful predictor of optimum
+    racing distance for Thoroughbred racehorses.
+  authors:
+  - Emmeline W Hill
+  - Beatrice A McGivney
+  - Jingjing Gu
+  - Ronan Whiston
+  - David E Machugh
+  publisher: BMC genomics
+  date: '2010-10-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20932346
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20098749
+  title: A sequence polymorphism in MSTN predicts sprinting ability and racing stamina
+    in thoroughbred horses.
+  authors:
+  - Emmeline W Hill
+  - Jingjing Gu
+  - Suzanne S Eivers
+  - Rita G Fonseca
+  - Beatrice A McGivney
+  - Preethi Govindarajan
+  - Nick Orr
+  - Lisa M Katz
+  - David E MacHugh
+  publisher: PloS one
+  date: '2010-01-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20098749
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20573200
+  title: Characterization of the equine skeletal muscle transcriptome identifies novel
+    functional responses to exercise training.
+  authors:
+  - Beatrice A McGivney
+  - Paul A McGettigan
+  - John A Browne
+  - Alexander C O Evans
+  - Rita G Fonseca
+  - Brendan J Loftus
+  - Amanda Lohan
+  - David E MacHugh
+  - Barbara A Murphy
+  - Lisa M Katz
+  - Emmeline W Hill
+  publisher: BMC genomics
+  date: '2010-06-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20573200
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC2812075
+  title: 'Correction: A Sequence Polymorphism in <i>MSTN</i> Predicts Sprinting Ability
+    and Racing Stamina in Thoroughbred Horses'
+  authors:
+  - Emmeline W. Hill
+  - Jingjing Gu
+  - Suzanne S. Eivers
+  - Rita G. Fonseca
+  - Beatrice A. McGivney
+  - Preethi Govindarajan
+  - Nick Orr
+  - Lisa M. Katz
+  - David E. MacHugh
+  publisher: PLoS ONE
+  date: '2010-01-26'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2812075/
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20942903
+  title: DNA sequence polymorphisms in a panel of eight candidate bovine imprinted
+    genes and their association with performance traits in Irish Holstein-Friesian
+    cattle.
+  authors:
+  - David A Magee
+  - Klaudia M Sikora
+  - Erik W Berkowicz
+  - Donagh P Berry
+  - Dawn J Howard
+  - Michael P Mullen
+  - Ross D Evans
+  - Charles Spillane
+  - David E MacHugh
+  publisher: BMC genetics
+  date: '2010-10-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20942903
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/physiolgenomics.zh7-3458-corr.2010
+  title: Corrigendum
+  authors: []
+  publisher: Physiological Genomics
+  date: '2010-04-01'
+  link: https://doi.org/fvqpvc
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/d2060932
+  title: Spatial Trends of Genetic Variation of Domestic Ruminants in Europe
+  authors:
+  - "Denis Lalo\xEB"
+  - Katayoun Moazami-Goudarzi
+  - Johannes A. Lenstra
+  - Paolo Ajmone Marsan
+  - Pedro Azor
+  - Roswitha Baumung
+  - Daniel G. Bradley
+  - Michael W. Bruford
+  - "Javier Ca\xF1\xF3n"
+  - Gaudenz Dolf
+  - Susana Dunner
+  - Georg Erhardt
+  - Godfrey Hewitt
+  - Juha Kantanen
+  - Gabriela Obexer-Ruff
+  - Ingrid Olsaker
+  - Clemen Rodellar
+  - Alessio Valentini
+  - Pamela Wiener
+  - ' ECGDCEC'
+  publisher: Diversity
+  date: '2010-06-17'
+  link: https://doi.org/dhr2d4
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19889461
+  title: Divergent antimicrobial peptide (AMP) and acute phase protein (APP) responses
+    to Trypanosoma congolense infection in trypanotolerant and trypanosusceptible
+    cattle.
+  authors:
+  - Kieran G Meade
+  - Grace M O'Gorman
+  - Emmeline W Hill
+  - Fernando Narciandi
+  - Morris Agaba
+  - Stephen J Kemp
+  - Cliona O'Farrelly
+  - David E MacHugh
+  publisher: Molecular immunology
+  date: '2009-11-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19889461
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19486308
+  title: Gene expression profiling of the host response to Mycobacterium bovis infection
+    in cattle.
+  authors:
+  - D E MacHugh
+  - E Gormley
+  - S D E Park
+  - J A Browne
+  - M Taraktsoglou
+  - C O'Farrelly
+  - K G Meade
+  publisher: Transboundary and emerging diseases
+  date: '2009-05-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19486308
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19503617
+  title: A genome scan for positive selection in thoroughbred horses.
+  authors:
+  - Jingjing Gu
+  - Nick Orr
+  - Stephen D Park
+  - Lisa M Katz
+  - Galina Sulimova
+  - David E MacHugh
+  - Emmeline W Hill
+  publisher: PloS one
+  date: '2009-06-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19503617
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20042072
+  title: Transcriptional adaptations following exercise in thoroughbred horse skeletal
+    muscle highlights molecular mechanisms that lead to muscle hypertrophy.
+  authors:
+  - Beatrice A McGivney
+  - Suzanne S Eivers
+  - David E MacHugh
+  - James N MacLeod
+  - Grace M O'Gorman
+  - Stephen D E Park
+  - Lisa M Katz
+  - Emmeline W Hill
+  publisher: BMC genomics
+  date: '2009-12-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20042072
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19409086
+  title: Transcriptional profiling of cattle infected with Trypanosoma congolense
+    highlights gene expression signatures underlying trypanotolerance and trypanosusceptibility.
+  authors:
+  - Grace M O'Gorman
+  - Stephen D E Park
+  - Emmeline W Hill
+  - Kieran G Meade
+  - Paul M Coussens
+  - Morris Agaba
+  - Jan Naessens
+  - Stephen J Kemp
+  - David E MacHugh
+  publisher: BMC genomics
+  date: '2009-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19409086
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:18676727
+  title: Inbreeding effects on postweaning production traits, conformation, and calving
+    performance in Irish beef cattle.
+  authors:
+  - S McParland
+  - J F Kearney
+  - D E MacHugh
+  - D P Berry
+  publisher: Journal of animal science
+  date: '2008-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18676727
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17948248
+  title: 'Transmission ratio distortion at the growth hormone gene (GH1) in bovine
+    preimplantation embryos: An in vitro culture-induced phenomenon?'
+  authors:
+  - Angela M Murphy
+  - Kieran G Meade
+  - Patricia A Hayes
+  - Stephen D E Park
+  - Alex C O Evans
+  - Patrick Lonergan
+  - David E MacHugh
+  publisher: Molecular reproduction and development
+  date: '2008-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17948248
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:18823559
+  title: Antigen stimulation of peripheral blood mononuclear cells from Mycobacterium
+    bovis infected cattle yields evidence for a novel gene expression program.
+  authors:
+  - Kieran G Meade
+  - Eamonn Gormley
+  - Cliona O'Farrelly
+  - Stephen D Park
+  - Eamon Costello
+  - Joseph Keane
+  - Yingdong Zhao
+  - David E MacHugh
+  publisher: BMC genomics
+  date: '2008-09-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18823559
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17725685
+  title: 'Taurine and zebu admixture in Near Eastern cattle: a comparison of mitochondrial,
+    autosomal and Y-chromosomal data.'
+  authors:
+  - C J Edwards
+  - J F Baird
+  - D E MacHugh
+  publisher: Animal genetics
+  date: '2007-08-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17725685
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17276517
+  title: Tumour necrosis factor-alpha (TNF-alpha) increases nuclear factor kappaB
+    (NFkappaB) activity in and interleukin-8 (IL-8) release from bovine mammary epithelial
+    cells.
+  authors:
+  - D C Fitzgerald
+  - K G Meade
+  - A N McEvoy
+  - L Lillis
+  - E P Murphy
+  - D E MacHugh
+  - A W Baird
+  publisher: Veterinary immunology and immunopathology
+  date: '2007-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17276517
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17242863
+  title: Linkage mapping of the locus for inherited ovine arthrogryposis (IOA) to
+    sheep chromosome 5.
+  authors:
+  - Angela M Murphy
+  - David E MacHugh
+  - Stephen D E Park
+  - Erik Scraggs
+  - Chris S Haley
+  - David J Lynn
+  - Maurice P Boland
+  - Michael L Doherty
+  publisher: 'Mammalian genome : official journal of the International Mammalian Genome
+    Society'
+  date: '2007-01-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17242863
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17974019
+  title: 'Innate gene repression associated with Mycobacterium bovis infection in
+    cattle: toward a gene signature of disease.'
+  authors:
+  - Kieran G Meade
+  - Eamonn Gormley
+  - "Mair\xE9ad B Doyle"
+  - Tara Fitzsimons
+  - Cliona O'Farrelly
+  - Eamon Costello
+  - Joseph Keane
+  - Yingdong Zhao
+  - David E MacHugh
+  publisher: BMC genomics
+  date: '2007-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17974019
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:18047648
+  title: Long-term stability of RNA in post-mortem bovine skeletal muscle, liver and
+    subcutaneous adipose tissues.
+  authors:
+  - Bojlul Bahar
+  - Frank J Monahan
+  - Aidan P Moloney
+  - Olaf Schmidt
+  - David E MacHugh
+  - Torres Sweeney
+  publisher: BMC molecular biology
+  date: '2007-11-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18047648
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16985010
+  title: Cytokine mRNA profiling of peripheral blood mononuclear cells from trypanotolerant
+    and trypanosusceptible cattle infected with Trypanosoma congolense.
+  authors:
+  - Grace M O'Gorman
+  - Stephen D E Park
+  - Emmeline W Hill
+  - Kieran G Meade
+  - Laura C Mitchell
+  - Morris Agaba
+  - John P Gibson
+  - Olivier Hanotte
+  - Jan Naessens
+  - Stephen J Kemp
+  - David E MacHugh
+  publisher: Physiological genomics
+  date: '2006-09-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16985010
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16978180
+  title: Evidence for biogeographic patterning of mitochondrial DNA sequences in Eastern
+    horse populations.
+  authors:
+  - A McGahern
+  - M A M Bower
+  - C J Edwards
+  - P O Brophy
+  - G Sulimova
+  - I Zakharov
+  - M Vizuete-Forster
+  - M Levine
+  - S Li
+  - D E MacHugh
+  - E W Hill
+  publisher: Animal genetics
+  date: '2006-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16978180
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16978181
+  title: Mitochondrial DNA sequence diversity in extant Irish horse populations and
+    in ancient horses.
+  authors:
+  - A M McGahern
+  - C J Edwards
+  - M A Bower
+  - A Heffernan
+  - S D E Park
+  - P O Brophy
+  - D G Bradley
+  - D E MacHugh
+  - E W Hill
+  publisher: Animal genetics
+  date: '2006-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16978181
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16784781
+  title: Gene expression profiling of peripheral blood mononuclear cells (PBMC) from
+    Mycobacterium bovis infected cattle after in vitro antigenic stimulation with
+    purified protein derivative of tuberculin (PPD).
+  authors:
+  - Kieran G Meade
+  - Eamonn Gormley
+  - Stephen D E Park
+  - Tara Fitzsimons
+  - Guilherme J M Rosa
+  - Eamon Costello
+  - Joseph Keane
+  - Paul M Coussens
+  - David E MacHugh
+  publisher: Veterinary immunology and immunopathology
+  date: '2006-06-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16784781
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15808304
+  title: 'Understanding bovine trypanosomiasis and trypanotolerance: the promise of
+    functional genomics.'
+  authors:
+  - Emmeline W Hill
+  - Grace M O'Gorman
+  - Morris Agaba
+  - John P Gibson
+  - Olivier Hanotte
+  - Stephen J Kemp
+  - Jan Naessens
+  - Paul M Coussens
+  - David E MacHugh
+  publisher: Veterinary immunology and immunopathology
+  date: '2005-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15808304
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15771738
+  title: Convenient detection of single nucleotide polymorphism haplotypes in the
+    bovine growth hormone gene using amplification-created restriction sites.
+  authors:
+  - K G Meade
+  - E W Hill
+  - F Buckley
+  - D E MacHugh
+  publisher: Animal genetics
+  date: '2005-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15771738
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15488005
+  title: Admixture and diversity in West African cattle populations.
+  authors:
+  - A R Freeman
+  - C M Meghen
+  - D E MacHugh
+  - R T Loftus
+  - M D Achukwi
+  - A Bado
+  - B Sauveroche
+  - D G Bradley
+  publisher: Molecular ecology
+  date: '2004-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15488005
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jas.2003.11.001
+  title: 'Ancient DNA analysis of 101 cattle remains: limits and prospects'
+  authors:
+  - Ceiridwen J Edwards
+  - David E MacHugh
+  - Keith M Dobney
+  - Louise Martin
+  - Nerissa Russell
+  - Liora K Horwitz
+  - Susan K McIntosh
+  - Kevin C MacDonald
+  - Daniel Helmer
+  - Anne Tresset
+  - Jean-Denis Vigne
+  - Daniel G Bradley
+  publisher: Journal of Archaeological Science
+  date: '2004-06-01'
+  link: https://doi.org/c36dzb
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:14687070
+  title: Feasibility and utility of microsatellite markers in archaeological cattle
+    remains from a Viking Age settlement in Dublin.
+  authors:
+  - C J Edwards
+  - J Connellan
+  - P F Wallace
+  - S D E Park
+  - F M McCormick
+  - I Olsaker
+  - "E Eyth\xF3rsd\xF3ttir"
+  - D E MacHugh
+  - J F Bailey
+  - D G Bradley
+  publisher: Animal genetics
+  date: '2003-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14687070
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:11344280
+  title: 'Livestock genetic origins: goats buck the trend.'
+  authors:
+  - D E MacHugh
+  - D G Bradley
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2001-05-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11344280
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:11323670
+  title: Genetic evidence for Near-Eastern origins of European cattle.
+  authors:
+  - C S Troy
+  - D E MacHugh
+  - J F Bailey
+  - D A Magee
+  - R T Loftus
+  - P Cunningham
+  - A T Chamberlain
+  - B C Sykes
+  - D G Bradley
+  publisher: Nature
+  date: '2001-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11323670
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:11488972
+  title: Sequence variation in the mitochondrial DNA control region of wild African
+    cheetahs (Acinonyx jubatus).
+  authors:
+  - A R Freeman
+  - D E MacHugh
+  - S McKeown
+  - C Walzer
+  - D J McConnell
+  - D G Bradley
+  publisher: Heredity
+  date: '2001-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11488972
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10895308
+  title: Phylogenetic analysis of the tribe Bovini using microsatellites.
+  authors:
+  - L R Ritz
+  - M L Glowatzki-Mullis
+  - D E MacHugh
+  - C Gaillard
+  publisher: Animal genetics
+  date: '2000-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10895308
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10782212
+  title: Y-specific microsatellite polymorphisms in a range of bovid species.
+  authors:
+  - C J Edwards
+  - C Gaillard
+  - D G Bradley
+  - D E MacHugh
+  publisher: Animal genetics
+  date: '2000-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10782212
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10632853
+  title: 'A microsatellite survey of cattle from a centre of origin: the Near East.'
+  authors:
+  - R T Loftus
+  - O Ertugrul
+  - A H Harba
+  - M A El-Barody
+  - D E MacHugh
+  - S D Park
+  - D G Bradley
+  publisher: Molecular ecology
+  date: '1999-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10632853
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10091250
+  title: 'Early medieval cattle remains from a Scandinavian settlement in Dublin:
+    genetic analysis and comparison with extant breeds.'
+  authors:
+  - D E MacHugh
+  - C S Troy
+  - F McCormick
+  - I Olsaker
+  - "E Eyth\xF3rsd\xF3ttir"
+  - D G Bradley
+  publisher: Philosophical transactions of the Royal Society of London. Series B,
+    Biological sciences
+  date: '1999-01-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10091250
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:9800321
+  title: Genetic structure of seven European cattle breeds assessed using 20 microsatellite
+    markers.
+  authors:
+  - D E MacHugh
+  - R T Loftus
+  - P Cunningham
+  - D G Bradley
+  publisher: Animal genetics
+  date: '1998-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9800321
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:9215909
+  title: Microsatellite DNA variation and the evolution, domestication and phylogeography
+    of taurine and zebu cattle (Bos taurus and Bos indicus).
+  authors:
+  - D E MacHugh
+  - M D Shriver
+  - R T Loftus
+  - P Cunningham
+  - D G Bradley
+  publisher: Genetics
+  date: '1997-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9215909
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:8643540
+  title: Mitochondrial diversity and the origins of African and European cattle.
+  authors:
+  - D G Bradley
+  - D E MacHugh
+  - P Cunningham
+  - R T Loftus
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '1996-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8643540
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:7985843
+  title: Mitochondrial genetic variation in European, African and Indian cattle populations.
+  authors:
+  - R T Loftus
+  - D E MacHugh
+  - L O Ngere
+  - D S Balain
+  - A M Badi
+  - D G Bradley
+  - E P Cunningham
+  publisher: Animal genetics
+  date: '1994-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7985843
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:8008754
+  title: Microsatellite DNA variation within and among European cattle breeds.
+  authors:
+  - D E Machugh
+  - R T Loftus
+  - D G Bradley
+  - P M Sharp
+  - P Cunningham
+  publisher: Proceedings. Biological sciences
+  date: '1994-04-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8008754
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:8146187
+  title: Evidence for two independent domestications of cattle.
+  authors:
+  - R T Loftus
+  - D E MacHugh
+  - D G Bradley
+  - P M Sharp
+  - P Cunningham
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '1994-03-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8146187
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:7909219
+  title: 'Zebu-taurine variation in Y chromosomal DNA: a sensitive assay for genetic
+    introgression in west African trypanotolerant cattle populations.'
+  authors:
+  - D G Bradley
+  - D E MacHugh
+  - R T Loftus
+  - R S Sow
+  - C H Hoste
+  - E P Cunningham
+  publisher: Animal genetics
+  date: '1994-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7909219
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2052.1994.tb00048.x
+  title: "Zebu\u2010taurine variation in Y chromosomal DNA: a sensitive assay for\
+    \ genetic introgression in West African trypanotolerant cattle populations"
+  authors:
+  - D G Bradley
+  - D E MacHugh
+  - R T Loftus
+  - R S Sow
+  - C H Hoste
+  - E P Cunningham
+  publisher: Animal Genetics
+  date: '1994-02-01'
+  link: https://doi.org/fpbhkr
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +3203,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +3219,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
