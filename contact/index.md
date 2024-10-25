@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="david.machuhgh@ucd.ie"
+  link="david.machugh@ucd.ie"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(01)-7166256"
+  link="+353-01-716-6256"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/UCD+Agriculture+and+Food+Science+Centre/@53.3077268,-6.2247397,18.31z/data=!4m7!3m6!1s0x486709312ce68f7f:0xfe6d492cf2f941fc!4b1!8m2!3d53.3072869!4d-6.2245267!16s%2Fg%2F11g8_0swkm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
