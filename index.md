@@ -1,7 +1,7 @@
 ---
 ---
 
-# jfogrady1DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to the University College Dublin Animal Genomics Group (UCD-AGG)!
 
 
 
