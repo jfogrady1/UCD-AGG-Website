@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the University College Dublin Animal Genomics Group (UCD-AGG)!
+# Welcome to the University College Dublin Animal Genomics Group!
 
 
 
