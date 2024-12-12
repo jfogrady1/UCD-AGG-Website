@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41437-024-00734-w
+  title: Genome-wide local ancestry and the functional consequences of admixture in
+    African and European cattle populations
+  authors:
+  - Gillian P. McHugo
+  - James A. Ward
+  - "Said Ismael Ng\u2019ang\u2019a"
+  - Laurent A. F. Frantz
+  - Michael Salter-Townshend
+  - Emmeline W. Hill
+  - "Grace M. O\u2019Gorman"
+  - Kieran G. Meade
+  - Thomas J. Hall
+  - David E. MacHugh
+  publisher: Heredity
+  date: '2024-11-08'
+  link: https://doi.org/g8qmpw
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-4622059/v1
   title: Genome-wide local ancestry and the functional consequences of admixture in
     African and European cattle populations
