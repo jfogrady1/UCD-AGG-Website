@@ -1,6 +1,6 @@
 ---
 name: John Francis O'Grady
-image: images/photo.jpg
+image: images/OGrady_J_headshot.png
 role: phd
 links:
   github: jfogrady1

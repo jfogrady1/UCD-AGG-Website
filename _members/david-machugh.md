@@ -2,7 +2,7 @@
 name: David Machugh
 image: images/photo.jpg
 role: pi
-affiliation: UCD School of Agriculture and Food Science
+affiliation:
 aliases:
   - D. MacHugh
   - D MacHugh
@@ -11,10 +11,16 @@ links:
   orcid: 0000-0002-8112-4704
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Functional genomics and systems biology of host-pathogen interactions in domestic animals with a specific focus on diseases caused by mycobacterial infections; particularly, bovine tuberculosis caused by infection with _Mycobacterium bovis_ and Johne's disease in cattle caused by infection with _M. avium_ subspecies _paratuberculosis_.
+
+Epigenomics of economically important traits in livestock. Evolutionary origins and population genomics of domestic cattle.
+
+Palaeogenomics of domestic livestock and their wild ancestors. Genome mapping in domestic animal species.
+
+Equine physiological genomics for performance and health traits.
+
+Application of genomics to commercial animal breeding and food production.
+
+As an independent Principal Investigator, I have managed, coordinated and delivered many large research programmes in these areas since 2000 (25 years).
+
+This research work has contributed to the generation and exploitation of significant intellectual property and Prof. MacHugh is a co-founder and shareholder in IdentiGEN Ltd. (www.identigen.com), Equinome Ltd. (www.equinome.com) and Plusvital Ltd. (www.plusvital.com).
