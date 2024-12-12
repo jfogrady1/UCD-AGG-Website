@@ -4,10 +4,10 @@ nav:
   order: 3
   tooltip: About our team
 redirect_from:
-  /lab-members
-  /alumns
-  /staff
-  /trainees
+  /lab-members:
+  /alumns:
+  /staff:
+  /trainees:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
