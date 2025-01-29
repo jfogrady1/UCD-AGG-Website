@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/evj.14461
+  title: "A genome\u2010wide association study for recurrent laryngeal neuropathy\
+    \ in the Thoroughbred horse identifies a candidate gene that regulates myelin\
+    \ structure"
+  authors:
+  - Charlotte L. McGivney
+  - Beatrice A. McGivney
+  - Gabriella Farries
+  - Katie F. Gough
+  - Haige Han
+  - Amy R. Holtby
+  - David E. MacHugh
+  - Lisa Michelle Katz
+  - Emmeline W. Hill
+  publisher: Equine Veterinary Journal
+  date: '2025-01-10'
+  link: https://doi.org/g8zjtv
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41437-024-00734-w
   title: Genome-wide local ancestry and the functional consequences of admixture in
     African and European cattle populations
@@ -17,6 +38,131 @@
   publisher: Heredity
   date: '2024-11-08'
   link: https://doi.org/g8qmpw
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1071/rd24145
+  title: Genome-edited livestock to secure sustainability
+  authors:
+  - Tad Sonstegard
+  - Jon Bostrom
+  - Kyra Martins
+  - Eui-Soo Kim
+  - Carolina Correia
+  - David MacHugh
+  - Sabreena Larson
+  - Daniel Carlson
+  publisher: Reproduction, Fertility and Development
+  date: '2024-12-13'
+  link: https://doi.org/g8zjtw
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.animal.2024.101402
+  title: 'Short communication: Genomic prediction based on unbiased estimation of
+    the genomic relationship matrix in pigs'
+  authors:
+  - M.Y. Li
+  - L.Y. Shi
+  - D.E. MacHugh
+  - X.Q. Wang
+  - J.J. Tian
+  - L.G. Wang
+  - Y.J. Deng
+  - L.X. Wang
+  - F.P. Zhao
+  publisher: animal
+  date: '2025-02-01'
+  link: https://doi.org/g8zjtx
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bib/bbae683
+  title: 'KPRR: a novel machine learning approach for effectively capturing nonadditive
+    effects in genomic prediction'
+  authors:
+  - Mianyan Li
+  - Thomas Hall
+  - David E MacHugh
+  - Liang Chen
+  - Dorian Garrick
+  - Lixian Wang
+  - Fuping Zhao
+  publisher: Briefings in Bioinformatics
+  date: '2024-11-22'
+  link: https://doi.org/g8zjtz
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scib.2024.05.030
+  title: Recent selection and introgression facilitated high-altitude adaptation in
+    cattle
+  authors:
+  - Yang Lyu
+  - Fuwen Wang
+  - Haijian Cheng
+  - Jing Han
+  - Ruihua Dang
+  - Xiaoting Xia
+  - Hui Wang
+  - Jincheng Zhong
+  - Johannes A. Lenstra
+  - Hucai Zhang
+  - Jianlin Han
+  - David E. MacHugh
+  - Ivica Medugorac
+  - Maulik Upadhyay
+  - Alexander S. Leonard
+  - He Ding
+  - Xiaorui Yang
+  - Ming-Shan Wang
+  - Suolang Quji
+  - Basang Zhuzha
+  - Pubu Quzhen
+  - Silang Wangmu
+  - Nima Cangjue
+  - Da Wa
+  - Weidong Ma
+  - Jianyong Liu
+  - Jicai Zhang
+  - Bizhi Huang
+  - Xingshan Qi
+  - Fuqiang Li
+  - Yongzhen Huang
+  - Yun Ma
+  - Yu Wang
+  - Yuanpeng Gao
+  - Wenfa Lu
+  - Chuzhao Lei
+  - Ningbo Chen
+  publisher: Science Bulletin
+  date: '2024-11-01'
+  link: https://doi.org/g8zjt2
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tube.2024.102544
+  title: Functional analysis of the Mycobacterium bovis AF2122/97 PhoPR system
+  authors:
+  - Jose Maria Urtasun-Elizari
+  - Ruoyao Ma
+  - Hayleah Pickford
+  - Damien Farrell
+  - Gabriel Gonzalez
+  - Viktor Perets
+  - Chie Nakajima
+  - Yasuhiko Suzuki
+  - David E. MacHugh
+  - Apoorva Bhatt
+  - Stephen V. Gordon
+  publisher: Tuberculosis
+  date: '2024-09-01'
+  link: https://doi.org/g8zjt3
   orcid: 0000-0002-8112-4704
   member: david-machugh
   plugin: orcid.py
@@ -82,6 +228,28 @@
   member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.jia.2024.04.017
+  title: Genome-wide Association Studies of Novel Resilience Traits Identify Important
+    Immune QTL Regions and Candidate Genes in Duroc Pigs
+  authors:
+  - Mianyan Li
+  - Lei Pu
+  - David E. MacHugh
+  - Jingjing Tian
+  - Xiaoqing Wang
+  - Qingyao Zhao
+  - Lijun Shi
+  - Hongmei Gao
+  - Ying Yu
+  - Lixian Wang
+  - Fuping Zhao
+  publisher: Journal of Integrative Agriculture
+  date: '2024-04-01'
+  link: https://doi.org/g8zjt4
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/pim.13033
   title: Unveiling the Role of Endoplasmic Reticulum Stress Pathways in Canine Demodicosis
   authors:
@@ -97,6 +265,31 @@
   publisher: Parasite Immunology
   date: '2024-04-01'
   link: https://doi.org/g8n5mx
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsos.231388
+  title: Genomic insights into the population history and adaptive traits of Latin
+    American Criollo cattle
+  authors:
+  - James A. Ward
+  - Said I. Ng'ang'a
+  - Imtiaz A. S. Randhawa
+  - Gillian P. McHugo
+  - John F. O'Grady
+  - "Julio M. Fl\xF3rez"
+  - John A. Browne
+  - "Ana M. P\xE9rez O\u2019Brien"
+  - "Antonio J. Landaeta-Hern\xE1ndez"
+  - "J\xF3se F. Garcia"
+  - Tad S. Sonstegard
+  - Laurent A. F. Frantz
+  - Michael Salter-Townshend
+  - David E. MacHugh
+  publisher: Royal Society Open Science
+  date: '2024-03-01'
+  link: https://doi.org/g8zjt5
   orcid: 0000-0002-8112-4704
   member: david-machugh
   plugin: orcid.py
