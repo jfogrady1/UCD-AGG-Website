@@ -4,7 +4,7 @@ title: Empowering livestock through genomics
 
 # Welcome to the University College Dublin Animal Genomics Group!
 
-The UCD Animal Genomics Group (UCD-AGG) is a team of researchers principally affiliated with the [UCD School of Agriculture and Food Science](https://www.ucd.ie/agfood/) and working closely with colleagues at the [UCD School of Veterinary Medicine]() dedicated to answering important questions in livestock genomics with computational techniques.
+The UCD Animal Genomics Group (UCD-AGG) is a team of researchers principally affiliated with the [UCD School of Agriculture and Food Science](https://www.ucd.ie/agfood/) and working closely with colleagues at the [UCD School of Veterinary Medicine](https://www.ucd.ie/vetmed/) dedicated to answering important questions in livestock genomics with computational techniques.
 We primarily focus on integrating different omics layers, leveraging novel computational and statistical methodologies, and harnessing high-resolutiom genomic datasets to uncover the molecular mechanisms underlying complex traits in livestock
 
 
