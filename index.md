@@ -10,7 +10,7 @@ We primarily focus on integrating different omics layers, leveraging novel compu
 
 {% include section.html %}
 
-## Highlights
+## Our Focus
 
 {% capture text %}
 
@@ -29,9 +29,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/Ward_et_al_2022_Figure_01_Africa_only.png"
   link="research"
-  title="Our Research"
+  title="Population Genomics"
   text=text
 %}
 
@@ -53,8 +53,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Integrative Genomics"
   flip=true
   style="bare"
   text=text
