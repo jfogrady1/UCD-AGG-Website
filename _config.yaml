@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: The UCD Animal Genomics Group
 subtitle: Empowering livestock through genomics
-logo-text: false
+logo-text: true
 header: images/laptop-paper.jpg
 footer: images/laptop-paper.jpg
 
