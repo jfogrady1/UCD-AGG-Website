@@ -1,5 +1,5 @@
 
-# jfogrady1DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to the UCD Animal Genomics Group
 
 Visit **[jfogrady1.github.io/UCD-AGG-Website](https://jfogrady1.github.io/UCD-AGG-Website)** 🚀
 
