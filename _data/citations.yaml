@@ -1,5 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.04.11.648383
+  title: Genetic control of the transcriptional response to active tuberculosis disease
+    and treatment
+  authors:
+  - John Francis O'Grady
+  - Alexander S Leonard
+  - Houcheng Li
+  - Lingzhao Fang
+  - Hubert Pausch
+  - Isobel Claire Gormley
+  - Stephen V. Gordon
+  - David E MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-14'
+  link: https://doi.org/g9f56q
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aro2.102
+  title: 'Cattle Genomics: Aurochs Admixture in East Asia'
+  authors:
+  - James A. Ward
+  - David E. MacHugh
+  publisher: Animal Research and One Health
+  date: '2025-02-12'
+  link: https://doi.org/g848qw
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.31.635858
+  title: Functional genomics of trypanotolerant and trypanosusceptible cattle infected
+    with<i>Trypanosoma congolense</i>across multiple time points and tissues
+  authors:
+  - Gillian P. McHugo
+  - James A. Ward
+  - John A. Browne
+  - "Grace M. O\u2019Gorman"
+  - Kieran G. Meade
+  - Emmeline W. Hill
+  - Thomas J. Hall
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-31'
+  link: https://doi.org/g83tz5
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/evj.14461
   title: "A genome\u2010wide association study for recurrent laryngeal neuropathy\
     \ in the Thoroughbred horse identifies a candidate gene that regulates myelin\
