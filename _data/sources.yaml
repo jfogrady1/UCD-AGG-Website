@@ -1,7 +1,7 @@
 - id: doi:10.1101/2025.04.11.648383
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/04/14/2025.04.11.648383/F1.large.jpg?width=800&height=600&carousel=1
+  image: 
 - id: doi:10.1038/s42003-025-07846-x
-  image: https://www.nature.com/articles/s42003-025-07846-x/figures/1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-025-07846-x/MediaObjects/42003_2025_7846_Fig1_HTML.png?as=webp
 - id: doi:10.1002/aro2.102
   image: https://onlinelibrary.wiley.com/cms/asset/f1f4320c-27db-430e-bab1-43eccd0bafac/aro2102-fig-0001-m.jpg
 - id: doi:10.1038/s41437-024-00734-w
