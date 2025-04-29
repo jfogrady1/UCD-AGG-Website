@@ -47,6 +47,19 @@ They have all made lasting contributions to science and to animal genomics.
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
+We work with a wide range of outstanding groups from around the world, and we’re always on the lookout for new and unique perspectives. 
+We want to push the frontier of data science and train the next generation of data scientists.
+
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
+
+{% include section.html dark=true %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
