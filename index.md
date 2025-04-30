@@ -14,7 +14,7 @@ We primarily focus on integrating different omics layers, leveraging novel compu
 
 {% capture text %}
 
-Population genomics explores the genetic diversity and evolutionary history of cattle through high-density SNP-array and whole-genome sequence data. Analyses of admixture reveal complex ancestries, particularly between taurine and indicine lineages shaped by domestication and crossbreeding. Evolutionary models trace demographic changes and adaptation across environments. Selection signature methods—such as F_ST, CSS, and GWAS—identify genomic quantitative trait loci (QTLs) linked to traits like heat tolerance, disease resistance, and productivity. Together, these approaches uncover the genetic basis of adaptation and inform sustainable breeding, conservation, and livestock improvement strategies.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -52,10 +52,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/home/McHugo_et_al_(2024)_Fig_01.png"
+  image="images/photo.jpg"
   link="research"
   title="Integrative Genomics"
   flip=true
+  style="bare"
   text=text
 %}
 
