@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/home/McHugo_et_al.(2024)_Fig_01.png"
+  image="images/home/McHugo_et_al_(2024)_Fig_01.png"
   link="research"
   title="Integrative Genomics"
   flip=true
