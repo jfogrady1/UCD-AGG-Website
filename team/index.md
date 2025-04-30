@@ -17,7 +17,7 @@ We recognize that diverse teams do better research.
 We foster an environment where team members are treated equally, and where we respect and admire our differences.
 The team includes postdocs, students at all levels and staff.
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %} {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
 {% include section.html dark=true %}
 
