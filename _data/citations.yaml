@@ -19,7 +19,7 @@
   member: david-machugh
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/04/14/2025.04.11.648383/F1.large.jpg?width=800&height=600&carousel=1
+  image: null
 - id: doi:10.1002/aro2.102
   title: 'Cattle Genomics: Aurochs Admixture in East Asia'
   authors:
@@ -3480,6 +3480,6 @@
   publisher: Communications Biology
   date: '2025-03-24'
   link: https://doi.org/g9gx49
-  image: https://www.nature.com/articles/s42003-025-07846-x/figures/1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-025-07846-x/MediaObjects/42003_2025_7846_Fig1_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
