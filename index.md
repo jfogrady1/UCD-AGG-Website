@@ -14,7 +14,7 @@ We primarily focus on integrating different omics layers, leveraging novel compu
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Population genomics explores the genetic diversity and evolutionary history of cattle through high-density SNP-array and whole-genome sequence (WGS) data. Analyses of admixture reveal complex ancestries, particularly between taurine and indicine lineages shaped by domestication and crossbreeding. Evolutionary models trace demographic changes and adaptation across environments. Selection signature methods—such as FST, CSS, and GWAS—identify genomic regions linked to traits like heat tolerance, disease resistance, and productivity. Together, these approaches uncover the genetic basis of adaptation and inform sustainable breeding, conservation, and livestock improvement strategies.
 
 {%
   include button.html
@@ -37,12 +37,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Integrative genomics combines diverse omics data types such as genomics, transcriptomics, and epigenomics to uncover host-pathogen interactions in tuberculosis. By integrating these layers, we aim to identify regulatory variants and pathways that influence TB susceptibility and immune response in both humans and cattle _in vivo_ and _in vitro_. This systems-level approach enhances understanding of disease mechanisms, highlights shared and species-specific host responses, and guides the development of diagnostics, vaccines, and genetic selection strategies for improved resistance.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Check out our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/OGrady_et_al_2025_Fig1.png"
   link="research"
   title="Integrative Genomics"
   flip=true
