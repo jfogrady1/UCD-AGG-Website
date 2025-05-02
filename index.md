@@ -56,8 +56,7 @@ Integrative genomics combines diverse omics data types such as genomics, transcr
   link="research"
   title="Integrative Genomics"
   flip=true
-  text=text,
-  width="1000px"
+  text=text
 %}
 
 {% capture text %}
