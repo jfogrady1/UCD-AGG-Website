@@ -15,6 +15,7 @@ links:
   orcid: 0000-0002-8112-4704
   email: david.machugh@ucd.ie
   twitter: david_machugh
+group: active
 ---
 
 Prof Machugh is interested in the following areas; functional genomics and systems biology of host-pathogen interactions in domestic animals with a specific focus on diseases caused by mycobacterial infections; particularly, bovine tuberculosis caused by infection with _Mycobacterium bovis_ and Johne's disease in cattle caused by infection with _M. avium_ subspecies _paratuberculosis_.

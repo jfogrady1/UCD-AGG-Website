@@ -17,7 +17,24 @@ We recognize that diverse teams do better research.
 We foster an environment where team members are treated equally, and where we respect and admire our differences.
 The team includes postdocs, students at all levels and staff.
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role:pi,group:active"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role:phd,group:active"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role:programmer,group:active"
+%}
 
 {% include section.html dark=true %}
 
@@ -40,7 +57,7 @@ Gone but never forgotten.
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 They have all made lasting contributions to science and to animal genomics.
 
-{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filters="group: alum" %}
 
 We work with a wide range of outstanding groups from around the world, and we’re always on the lookout for new and unique perspectives. 
 We want to push the frontier of data science and train the next generation of data scientists.
