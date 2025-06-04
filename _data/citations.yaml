@@ -17,8 +17,9 @@
   link: https://doi.org/g9f56q
   orcid: 0000-0002-8112-4704
   member: david-machugh
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
 - id: doi:10.1002/aro2.102
   title: 'Cattle Genomics: Aurochs Admixture in East Asia'
   authors:
@@ -29,8 +30,9 @@
   link: https://doi.org/g848qw
   orcid: 0000-0002-8112-4704
   member: david-machugh
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/f1f4320c-27db-430e-bab1-43eccd0bafac/aro2102-fig-0001-m.jpg
 - id: doi:10.1101/2025.01.31.635858
   title: Functional genomics of trypanotolerant and trypanosusceptible cattle infected
     with<i>Trypanosoma congolense</i>across multiple time points and tissues
@@ -69,8 +71,9 @@
   link: https://doi.org/g8zjtv
   orcid: 0000-0002-8112-4704
   member: david-machugh
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://beva.onlinelibrary.wiley.com/cms/asset/ab34f0be-eb12-4c5a-900b-0d95b68aea02/evj14461-fig-0001-m.jpg
 - id: doi:10.1038/s41437-024-00734-w
   title: Genome-wide local ancestry and the functional consequences of admixture in
     African and European cattle populations
@@ -90,8 +93,8 @@
   link: https://doi.org/g8qmpw
   orcid: 0000-0002-8112-4704
   member: david-machugh
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1071/rd24145
   title: Genome-edited livestock to secure sustainability
   authors:
@@ -342,8 +345,9 @@
   link: https://doi.org/g8zjt5
   orcid: 0000-0002-8112-4704
   member: david-machugh
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://royalsocietypublishing.org/cms/asset/c81dee81-0610-4152-b463-66f5f281f495/rsos.231388.f001.gif
 - id: doi:10.1101/2023.08.11.552979
   title: Unveiling the Role of Endoplasmic Reticulum Stress Pathways in Canine Demodicosis
   authors:
@@ -1755,23 +1759,23 @@
   title: "Definition of the Cattle Killer Cell Ig\u2013like Receptor Gene Family:\
     \ Comparison with Aurochs and Human Counterparts"
   authors:
-  - Nicholas D. Sanderson
-  - Paul J. Norman
-  - Lisbeth A. Guethlein
-  - Shirley A. Ellis
+  - Nicholas D Sanderson
+  - Paul J Norman
+  - Lisbeth A Guethlein
+  - Shirley A Ellis
   - Christina Williams
   - Matthew Breen
-  - Steven D. E. Park
-  - David A. Magee
+  - Steven D E Park
+  - David A Magee
   - Farbod Babrzadeh
   - Andrew Warry
   - Mick Watson
-  - Daniel G. Bradley
-  - David E. MacHugh
+  - Daniel G Bradley
+  - David E MacHugh
   - Peter Parham
-  - John A. Hammond
+  - John A Hammond
   publisher: The Journal of Immunology
-  date: '2014-12-15'
+  date: '2014-12-01'
   link: https://doi.org/f6smgp
   orcid: 0000-0002-8112-4704
   member: david-machugh
@@ -3454,3 +3458,174 @@
   member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s42003-025-07846-x
+  title: Integrative genomics sheds light on the immunogenetics of tuberculosis in
+    cattle
+  authors:
+  - "John F. O\u2019Grady"
+  - Gillian P. McHugo
+  - James A. Ward
+  - Thomas J. Hall
+  - "Sarah L. Faherty O\u2019Donnell"
+  - Carolina N. Correia
+  - John A. Browne
+  - Michael McDonald
+  - Eamonn Gormley
+  - Valentina Riggio
+  - James G. D. Prendergast
+  - Emily L. Clark
+  - Hubert Pausch
+  - Kieran G. Meade
+  - Isobel C. Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Communications Biology
+  date: '2025-03-24'
+  link: https://doi.org/g9gx49
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-025-07846-x/MediaObjects/42003_2025_7846_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-025-02121-5
+  title: "The Farm Animal Genotype\u2013Tissue Expression (FarmGTEx) Project"
+  authors:
+  - Lingzhao Fang
+  - Jinyan Teng
+  - Qing Lin
+  - Zhonghao Bai
+  - Shuli Liu
+  - Dailu Guan
+  - Bingjie Li
+  - Yahui Gao
+  - Yali Hou
+  - Mian Gong
+  - Zhangyuan Pan
+  - Ying Yu
+  - Emily L. Clark
+  - Jacqueline Smith
+  - Konrad Rawlik
+  - Ruidong Xiang
+  - Amanda J. Chamberlain
+  - Michael E. Goddard
+  - Mathew Littlejohn
+  - Greger Larson
+  - David E. MacHugh
+  - "John F. O\u2019Grady"
+  - "Peter S\xF8rensen"
+  - Goutam Sahana
+  - "Mogens Sand\xF8 Lund"
+  - Zhihua Jiang
+  - Xiangchun Pan
+  - Wentao Gong
+  - Haihan Zhang
+  - Xi He
+  - Yuebo Zhang
+  - Ning Gao
+  - Jun He
+  - Guoqiang Yi
+  - Yuwen Liu
+  - Zhonglin Tang
+  - Pengju Zhao
+  - Yang Zhou
+  - Liangliang Fu
+  - Xiao Wang
+  - Dan Hao
+  - Lei Liu
+  - Siqian Chen
+  - Robert S. Young
+  - Xia Shen
+  - Charley Xia
+  - Hao Cheng
+  - Li Ma
+  - John B. Cole
+  - Ransom L. Baldwin
+  - Cong-jun Li
+  - Curtis P. Van Tassell
+  - Benjamin D. Rosen
+  - Nayan Bhowmik
+  - Joan Lunney
+  - Wansheng Liu
+  - Leluo Guan
+  - Xin Zhao
+  - Eveline M. Ibeagha-Awemu
+  - Yonglun Luo
+  - Lin Lin
+  - Oriol Canela-Xandri
+  - Martijn F. L. Derks
+  - Richard P. M. A. Crooijmans
+  - "Marta G\xF2dia"
+  - Ole Madsen
+  - Martien A. M. Groenen
+  - James E. Koltes
+  - Christopher K. Tuggle
+  - Fiona M. McCarthy
+  - Dominique Rocha
+  - Elisabetta Giuffra
+  - Marcel Amills
+  - Alex Clop
+  - Maria Ballester
+  - Gwenola Tosser-Klopp
+  - Jing Li
+  - Chao Fang
+  - Ming Fang
+  - Qishan Wang
+  - Zhuocheng Hou
+  - Qin Wang
+  - Fuping Zhao
+  - Lin Jiang
+  - Guiping Zhao
+  - Zhengkui Zhou
+  - Rong Zhou
+  - Hehe Liu
+  - Juan Deng
+  - Long Jin
+  - Mingzhou Li
+  - Delin Mo
+  - Xiaohong Liu
+  - Yaosheng Chen
+  - Xiaolong Yuan
+  - Jiaqi Li
+  - Shuhong Zhao
+  - Yi Zhang
+  - Xiangdong Ding
+  - Dongxiao Sun
+  - Hui-Zeng Sun
+  - Cong Li
+  - Yu Wang
+  - Yu Jiang
+  - Dongdong Wu
+  - Wenwen Wang
+  - Xinzhong Fan
+  - Qin Zhang
+  - Kui Li
+  - Hao Zhang
+  - Ning Yang
+  - Xiaoxiang Hu
+  - Wen Huang
+  - Jiuzhou Song
+  - Yang Wu
+  - Jian Yang
+  - Weiwei Wu
+  - Claudia Kasper
+  - Xinfeng Liu
+  - Xiaofei Yu
+  - Leilei Cui
+  - Xiang Zhou
+  - Seyoung Kim
+  - Wei Li
+  - Hae Kyung Im
+  - Edward S. Buckler
+  - Bing Ren
+  - Michael C. Schatz
+  - Jingyi Jessica Li
+  - Abraham A. Palmer
+  - Laurent Frantz
+  - Huaijun Zhou
+  - Zhe Zhang
+  - George E. Liu
+  - Curtis P. Van Tassell
+  publisher: Nature Genetics
+  date: '2025-03-17'
+  link: https://doi.org/g88q74
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-025-02121-5/MediaObjects/41588_2025_2121_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
