@@ -2547,6 +2547,29 @@
   member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:21070269
+  title: Genome-wide SNP association-based localization of a dwarfism gene in Friesian
+    dwarf horses.
+  authors:
+  - N Orr
+  - W Back
+  - J Gu
+  - P Leegwater
+  - P Govindarajan
+  - J Conroy
+  - B Ducro
+  - J A M Van Arendonk
+  - D E MacHugh
+  - S Ennis
+  - E W Hill
+  - P A J Brama
+  publisher: Animal genetics
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21070269
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:21070277
   title: Targets of selection in the Thoroughbred genome contain exercise-relevant
     gene SNPs associated with elite racecourse performance.
@@ -3252,25 +3275,6 @@
     of America
   date: '2001-05-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/11344280
-  orcid: 0000-0002-8112-4704
-  member: david-machugh
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:11323670
-  title: Genetic evidence for Near-Eastern origins of European cattle.
-  authors:
-  - C S Troy
-  - D E MacHugh
-  - J F Bailey
-  - D A Magee
-  - R T Loftus
-  - P Cunningham
-  - A T Chamberlain
-  - B C Sykes
-  - D G Bradley
-  publisher: Nature
-  date: '2001-04-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/11323670
   orcid: 0000-0002-8112-4704
   member: david-machugh
   plugin: orcid.py
