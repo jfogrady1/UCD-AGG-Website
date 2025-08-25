@@ -2527,26 +2527,6 @@
   member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:21094770
-  title: Associations between novel single nucleotide polymorphisms in the Bos taurus
-    growth hormone gene and performance traits in Holstein-Friesian dairy cattle.
-  authors:
-  - M P Mullen
-  - D P Berry
-  - D J Howard
-  - M G Diskin
-  - C O Lynch
-  - E W Berkowicz
-  - D A Magee
-  - D E MacHugh
-  - S M Waters
-  publisher: Journal of dairy science
-  date: '2010-12-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21094770
-  orcid: 0000-0002-8112-4704
-  member: david-machugh
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:21070269
   title: Genome-wide SNP association-based localization of a dwarfism gene in Friesian
     dwarf horses.
