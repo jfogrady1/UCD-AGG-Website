@@ -1,25 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.04.11.648383
-  title: Genetic control of the transcriptional response to active tuberculosis disease
-    and treatment
+- id: doi:10.1371/journal.pntd.0012882
+  title: Functional genomics of trypanotolerant and trypanosusceptible cattle infected
+    with Trypanosoma congolense across multiple time points and tissues
   authors:
-  - John Francis O'Grady
-  - Alexander S Leonard
-  - Houcheng Li
-  - Lingzhao Fang
-  - Hubert Pausch
-  - Isobel Claire Gormley
-  - Stephen V. Gordon
-  - David E MacHugh
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-04-14'
-  link: https://doi.org/g9f56q
+  - Gillian P. McHugo
+  - James A. Ward
+  - John A. Browne
+  - "Grace M. O\u2019Gorman"
+  - Kieran G. Meade
+  - Emmeline W. Hill
+  - Thomas J. Hall
+  - David E. MacHugh
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2025-08-04'
+  link: https://doi.org/g9wpnh
   orcid: 0000-0002-8112-4704
   member: david-machugh
-  plugin: sources.py
-  file: sources.yaml
-  image: null
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/aro2.102
   title: 'Cattle Genomics: Aurochs Admixture in East Asia'
   authors:
@@ -33,9 +32,58 @@
   plugin: sources.py
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/f1f4320c-27db-430e-bab1-43eccd0bafac/aro2102-fig-0001-m.jpg
+- id: doi:10.1101/2025.04.11.648383
+  title: Genetic control of the transcriptional response to active tuberculosis disease
+    and treatment
+  authors:
+  - "John F. O\u2019Grady"
+  - Alexander S. Leonard
+  - Houcheng Li
+  - Lingzhao Fang
+  - Hubert Pausch
+  - Isobel C. Gormley
+  - Stephen. V. Gordon
+  - David E. MacHugh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-14'
+  link: https://doi.org/g9f56q
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+- id: doi:10.1038/s42003-025-07846-x
+  title: Integrative genomics sheds light on the immunogenetics of tuberculosis in
+    cattle
+  authors:
+  - "John F. O\u2019Grady"
+  - Gillian P. McHugo
+  - James A. Ward
+  - Thomas J. Hall
+  - "Sarah L. Faherty O\u2019Donnell"
+  - Carolina N. Correia
+  - John A. Browne
+  - Michael McDonald
+  - Eamonn Gormley
+  - Valentina Riggio
+  - James G. D. Prendergast
+  - Emily L. Clark
+  - Hubert Pausch
+  - Kieran G. Meade
+  - Isobel C. Gormley
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: Communications Biology
+  date: '2025-03-24'
+  link: https://doi.org/g9gx49
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-025-07846-x/MediaObjects/42003_2025_7846_Fig1_HTML.png?as=webp
 - id: doi:10.1101/2025.01.31.635858
   title: Functional genomics of trypanotolerant and trypanosusceptible cattle infected
-    with<i>Trypanosoma congolense</i>across multiple time points and tissues
+    with <i>Trypanosoma congolense</i> across multiple time points and tissues
   authors:
   - Gillian P. McHugo
   - James A. Ward
@@ -3458,33 +3506,6 @@
   member: david-machugh
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s42003-025-07846-x
-  title: Integrative genomics sheds light on the immunogenetics of tuberculosis in
-    cattle
-  authors:
-  - "John F. O\u2019Grady"
-  - Gillian P. McHugo
-  - James A. Ward
-  - Thomas J. Hall
-  - "Sarah L. Faherty O\u2019Donnell"
-  - Carolina N. Correia
-  - John A. Browne
-  - Michael McDonald
-  - Eamonn Gormley
-  - Valentina Riggio
-  - James G. D. Prendergast
-  - Emily L. Clark
-  - Hubert Pausch
-  - Kieran G. Meade
-  - Isobel C. Gormley
-  - Stephen V. Gordon
-  - David E. MacHugh
-  publisher: Communications Biology
-  date: '2025-03-24'
-  link: https://doi.org/g9gx49
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-025-07846-x/MediaObjects/42003_2025_7846_Fig1_HTML.png?as=webp
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/s41588-025-02121-5
   title: "The Farm Animal Genotype\u2013Tissue Expression (FarmGTEx) Project"
   authors:
