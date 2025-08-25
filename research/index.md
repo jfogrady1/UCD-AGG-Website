@@ -7,8 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# UCD Animal Genomics Group
+
+The UCD Animal Genomics Group, led by **Professor David MacHugh**, applies advanced genomic technologies to key challenges in animal health, production, and conservation. Our research focuses on understanding the genetic basis of important traits in livestock and exploring the evolutionary history of domesticated animals.
+
+### Our Research Focus
+
+* **Host-Pathogen Interactions**: In collaboration with **Professor Stephen Gordon** We investigate the functional genomics of infectious diseases in livestock, with a specific focus on **bovine tuberculosis** caused by infection with _Mycobacterium bovis_. Our goal is to identify genetic markers for disease resistance and develop next-generation diagnostics to control and eradicate this disease from livestock populations.
+
+* **Population & Evolutionary Genomics**: We study the genetic diversity and historical origins of modern and ancient livestock populations. Our work includes sequencing the genome of the extinct aurochs to understand its contribution to contemporary cattle breeds.
+
+* **Equine Genomics**: In collaboration with **Professor Emmeline Hill**, we use genomics to identify genes related to athletic performance in thoroughbred horses, providing insights that can inform breeding decisions.
 
 {% include section.html %}
 
