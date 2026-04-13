@@ -1,5 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.15.705989
+  title: "Comparative multi-omics of the macrophage response to infection with\n \
+    \                 <i>Mycobacterium tuberculosis</i>\n                  complex\
+    \ bacteria reveals pathogen-driven epigenomic reprogramming"
+  authors:
+  - Thomas J. Hall
+  - Morgane Mitermite
+  - "John F. O\u2019Grady"
+  - John A. Browne
+  - Gillian P. McHugo
+  - Emily L. Clark
+  - Mazdak Salavati
+  - Stephen V. Gordon
+  - David E. MacHugh
+  publisher: openRxiv
+  date: '2026-02-17'
+  link: https://doi.org/hbp92n
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gpbjnl/qzaf131
+  title: "The Indicine X-linked\n                    <i>CYBB</i>\n               \
+    \     L237M Mutation Can Suppress Intracellular Infection with Tubercle Bacilli"
+  authors:
+  - Haoxin Wang
+  - Xiaoting Xia
+  - Lulan Zeng
+  - Jing Yang
+  - Jing Han
+  - David E MacHugh
+  - Johannes A Lenstra
+  - Yanliang Song
+  - Ajiao Fan
+  - Yifan Zhu
+  - Zhenliang Zhu
+  - Xinyan Zhang
+  - Yingyu Chen
+  - Jianlin Han
+  - Chuzhao Lei
+  - Ningbo Chen
+  - Yong Zhang
+  - Yuanpeng Gao
+  publisher: Genomics, Proteomics &amp; Bioinformatics
+  date: '2025-12-23'
+  link: https://doi.org/hbg9c2
+  orcid: 0000-0002-8112-4704
+  member: david-machugh
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-7311967/v1
   title: Genetic control of the transcriptional response to active tuberculosis disease
     and treatment
@@ -63,7 +113,7 @@
   - Isobel C. Gormley
   - Stephen. V. Gordon
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-14'
   link: https://doi.org/g9f56q
   orcid: 0000-0002-8112-4704
@@ -101,8 +151,9 @@
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-025-07846-x/MediaObjects/42003_2025_7846_Fig1_HTML.png?as=webp
 - id: doi:10.1101/2025.01.31.635858
-  title: Functional genomics of trypanotolerant and trypanosusceptible cattle infected
-    with <i>Trypanosoma congolense</i> across multiple time points and tissues
+  title: "Functional genomics of trypanotolerant and trypanosusceptible cattle infected\
+    \ with\n                  <i>Trypanosoma congolense</i>\n                  across\
+    \ multiple time points and tissues"
   authors:
   - Gillian P. McHugo
   - James A. Ward
@@ -112,7 +163,7 @@
   - Emmeline W. Hill
   - Thomas J. Hall
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-01-31'
   link: https://doi.org/g83tz5
   orcid: 0000-0002-8112-4704
@@ -341,7 +392,7 @@
   - Kieran G. Meade
   - Thomas J. Hall
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-06-20'
   link: https://doi.org/g8n5mw
   orcid: 0000-0002-8112-4704
@@ -349,8 +400,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jia.2024.04.017
-  title: Genome-wide Association Studies of Novel Resilience Traits Identify Important
-    Immune QTL Regions and Candidate Genes in Duroc Pigs
+  title: Genome-wide association studies of novel resilience traits identify important
+    immune QTL regions and candidate genes in Duroc pigs
   authors:
   - Mianyan Li
   - Lei Pu
@@ -364,7 +415,7 @@
   - Lixian Wang
   - Fuping Zhao
   publisher: Journal of Integrative Agriculture
-  date: '2024-04-01'
+  date: '2025-11-01'
   link: https://doi.org/g8zjt4
   orcid: 0000-0002-8112-4704
   member: david-machugh
@@ -427,7 +478,7 @@
   - David E. MacHugh
   - Irene Lara Saez
   - Rory Breathnach
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-08-14'
   link: https://doi.org/g8n5mz
   orcid: 0000-0002-8112-4704
@@ -435,8 +486,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.07.21.550071
-  title: "Preferential differential gene expression within the WC1.1<sup>+</sup>\u03B3\
-    \u03B4 T cell compartment in cattle naturally infected with<i>Mycobacterium bovis</i>"
+  title: "Preferential differential gene expression within the WC1.1\n           \
+    \       <sup>+</sup>\n                  \u03B3\u03B4 T cell compartment in cattle\
+    \ naturally infected with\n                  <i>Mycobacterium bovis</i>"
   authors:
   - Sajad A. Bhat
   - Mahmoud Elnaggar
@@ -445,7 +497,7 @@
   - Cian Reid
   - David E. MacHugh
   - Kieran G. Meade
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-07-25'
   link: https://doi.org/g8n5m2
   orcid: 0000-0002-8112-4704
@@ -464,7 +516,7 @@
   - John A. Browne
   - Stephen V. Gordon
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-07-15'
   link: https://doi.org/g8n5m4
   orcid: 0000-0002-8112-4704
@@ -599,9 +651,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.04.19.488769
-  title: High-resolution transcriptomics of bovine purified protein derivative-stimulated
-    peripheral blood from cattle infected with<i>Mycobacterium bovis</i>across an
-    experimental time course
+  title: "High-resolution transcriptomics of bovine purified protein derivative-stimulated\
+    \ peripheral blood from cattle infected with\n                  <i>Mycobacterium\
+    \ bovis</i>\n                  across an experimental time course"
   authors:
   - Carolina N. Correia
   - Gillian P. McHugo
@@ -615,7 +667,7 @@
   - Eamonn Gormley
   - Stephen V. Gordon
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-04-19'
   link: https://doi.org/g8n5nc
   orcid: 0000-0002-8112-4704
@@ -697,8 +749,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.08.26.457829
-  title: Genome-wide local ancestry and direct evidence for mitonuclear coadaptation
-    in African hybrid cattle populations (<i>Bos taurus</i>/<i>indicus</i>)
+  title: "Genome-wide local ancestry and direct evidence for mitonuclear coadaptation\
+    \ in African hybrid cattle populations (\n                  <i>Bos taurus</i>\n\
+    \                  /\n                  <i>indicus</i>\n                  )"
   authors:
   - James A. Ward
   - Gillian P. McHugo
@@ -710,7 +763,7 @@
   - Laurent A. F. Frantz
   - Michael Salter-Townshend
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-08-27'
   link: https://doi.org/g8n5ng
   orcid: 0000-0002-8112-4704
@@ -718,9 +771,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.06.21.449266
-  title: Timing of transcriptomic peripheral blood mononuclear cell responses of sheep
-    to <i>Fasciola hepatica</i> infection differs from those of cattle, reflecting
-    different disease phenotypes
+  title: "Timing of transcriptomic peripheral blood mononuclear cell responses of\
+    \ sheep to\n                  <i>Fasciola hepatica</i>\n                  infection\
+    \ differs from those of cattle, reflecting different disease phenotypes"
   authors:
   - Dagmara A. Niedziela
   - Amalia Naranjo-Lucena
@@ -730,7 +783,7 @@
   - "Jos\xE9 P\xE9rez"
   - David E. MacHugh
   - Grace Mulcahy
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-06-22'
   link: https://doi.org/g8n5nh
   orcid: 0000-0002-8112-4704
@@ -833,7 +886,7 @@
   - John A. Browne
   - Stephen V. Gordon
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-08-26'
   link: https://doi.org/g8n5nm
   orcid: 0000-0002-8112-4704
@@ -859,7 +912,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:1664-8021
-  title: ISSN 1664-8021 (Online) | Frontiers in genetics | The ISSN Portal
+  title: ISSN 1664-8021 - Frontiers in genetics
   authors: []
   publisher: ''
   date: ''
@@ -918,7 +971,7 @@
   - Teruaki Tozaki
   - David E. MacHugh
   - Emmeline W. Hill
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-09-16'
   link: https://doi.org/gktwpm
   orcid: 0000-0002-8112-4704
@@ -957,7 +1010,7 @@
   - D. E. MacHugh
   - L. M. Katz
   - E. W. Hill
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-07-24'
   link: https://doi.org/gk2j4w
   orcid: 0000-0002-8112-4704
@@ -1056,8 +1109,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/520098
-  title: Alveolar macrophage chromatin is modified to orchestrate host response to<i>Mycobacterium
-    bovis</i>infection
+  title: "Alveolar macrophage chromatin is modified to orchestrate host response to\n\
+    \                  <i>Mycobacterium bovis</i>\n                  infection"
   authors:
   - Thomas Jonathan Hall
   - Douglas Vernimmen
@@ -1066,7 +1119,7 @@
   - Stephen Vincent Gordon
   - David Evan MacHugh
   - "Alan Mark O\u2019Doherty"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-01-14'
   link: https://doi.org/gkwv89
   orcid: 0000-0002-8112-4704
@@ -1130,7 +1183,7 @@
   - Carolina N. Correia
   - James P. Hanrahan
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-05-23'
   link: https://doi.org/gkwn3w
   orcid: 0000-0002-8112-4704
@@ -1313,9 +1366,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/294330
-  title: RNA sequencing (RNA-seq) reveals extremely low levels of reticulocyte-derived
-    globin gene transcripts in peripheral blood from horses (<i>Equus caballus</i>)
-    and cattle (<i>Bos taurus</i>)
+  title: "RNA sequencing (RNA-seq) reveals extremely low levels of reticulocyte-derived\
+    \ globin gene transcripts in peripheral blood from horses (\n                \
+    \  <i>Equus caballus</i>\n                  ) and cattle (\n                 \
+    \ <i>Bos taurus</i>\n                  )"
   authors:
   - Carolina N. Correia
   - Kirsten E. McLoughlin
@@ -1325,7 +1379,7 @@
   - Kevin Rue-Albrecht
   - Stephen V. Gordon
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-04-04'
   link: https://doi.org/gkxrnw
   orcid: 0000-0002-8112-4704
@@ -1427,7 +1481,7 @@
   - Carolina N. Correia
   - Imtiaz A. S. Randhawa
   - David E. MacHugh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-10-28'
   link: https://doi.org/gkxmth
   orcid: 0000-0002-8112-4704
@@ -1485,7 +1539,7 @@
   - David E. MacHugh
   - Christopher J. Creevey
   publisher: Reproduction, Fertility and Development
-  date: '2017-01-01'
+  date: '2015-08-25'
   link: https://doi.org/g8n5n2
   orcid: 0000-0002-8112-4704
   member: david-machugh
